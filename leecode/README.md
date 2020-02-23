@@ -1,5 +1,3 @@
-  | 水果        | 价格    |  数量  |
-    | --------   | -----:   | :----: |
-    | 香蕉        | $1      |   5    |
-    | 苹果        | $1      |   6    |
-    | 草莓        | $1      |   7    |
+LeetCode
+#	Title java	Difficulty
+5172	Largest Multiple of Three Java Easy
