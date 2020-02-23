@@ -1,26 +1,5 @@
-     <table>
-        <tr>
-            <th>题号</th>
-            <th>题目</th>
-            <th>地址</th>
-            <th>语言</th>
-        </tr>
-        <tr>
-            <th>5172</th>
-            <th>形成三的最大倍数</th>
-            <th></th>
-            <th>Java</th>
-        </tr>
-        <tr>
-            <th>显示器</th>
-            <th>/dev/stdout</th>
-            <th>1</th>
-            <th>标准输出</th>
-        </tr>
-        <tr>
-            <th>显示器</th>
-            <th>/dev/stderr</th>
-            <th>2</th>
-            <th>标准错误输出</th>
-        </tr>
-    </table>
+  | 水果        | 价格    |  数量  |
+    | --------   | -----:   | :----: |
+    | 香蕉        | $1      |   5    |
+    | 苹果        | $1      |   6    |
+    | 草莓        | $1      |   7    |
