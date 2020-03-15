@@ -4,7 +4,7 @@ LeetCode
 
 | # | Title | c++ | python | java | Difficulty |
 
-|---| ----- | -------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| ------ | -------- | ----------- | ------------- | ------------- | ------------- |
 
 |0382|[Linked List Random Node](https://leetcode-cn.com/problems/linked-list-random-node/)| | |[java](./382/382.java)|Medium|
 
