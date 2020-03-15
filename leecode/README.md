@@ -2,7 +2,7 @@ LeetCode
 ========
  
 
-| # | Title | c | c++ | python | go | js | java | Difficulty |
+| # | Title | c++ | python | java | Difficulty |
 |---| ----- | -------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 |0382|[Linked List Random Node](https://leetcode-cn.com/problems/linked-list-random-node/)| | | | | |[java](./382/382.java)|Medium|
 |0695|[Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/)| | | | | |[java](./695/695.java)|Medium|
