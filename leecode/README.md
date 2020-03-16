@@ -9,3 +9,4 @@ LeetCode
 |5172|[Largest Multiple of Three](https://leetcode-cn.com/contest/weekly-contest-177/problems/largest-multiple-of-three/) | | |[java](./5172/5172.java)|Hard|
 |5355|[Frog Position After T Seconds](https://leetcode-cn.com/contest/weekly-contest-179/problems/frog-position-after-t-seconds/) | | |[java](./5355/5355.java)|Hard|
 |5359|[Maximum Performance of a Team](https://leetcode-cn.com/problems/maximum-performance-of-a-team/) | | |[java](./5359/5359_1.java)|Hard|
+|面试题0106|[Compress String LCCI](https://leetcode-cn.com/problems/compress-string-lcci/) | | |[java](./面试题0106/0106.java)|Hard|
