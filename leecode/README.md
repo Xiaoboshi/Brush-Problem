@@ -6,6 +6,7 @@ LeetCode
 | :-------------: | :---------------: | :------------------: | :--------------------: | :--------------------: | :--------------------: |
 |0382|[Linked List Random Node](https://leetcode-cn.com/problems/linked-list-random-node/)| | |[java](./382/382.java)|Medium|
 |0695|[Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/)| | |[java](./695/695.java)|Medium|
+|1367|[Linked List in Binary Tree](https://leetcode-cn.com/problems/linked-list-in-binary-tree/)| | |[java](./1367/1367.java)|Medium|
 |5172|[Largest Multiple of Three](https://leetcode-cn.com/contest/weekly-contest-177/problems/largest-multiple-of-three/) | | |[java](./5172/5172.java)|Hard|
 |5355|[Frog Position After T Seconds](https://leetcode-cn.com/contest/weekly-contest-179/problems/frog-position-after-t-seconds/) | | |[java](./5355/5355.java)|Hard|
 |5357|[Design a Stack With Increment Operation](https://leetcode-cn.com/contest/weekly-contest-180/problems/design-a-stack-with-increment-operation/) | | |[java](./5357/5357.java)|Medium|
