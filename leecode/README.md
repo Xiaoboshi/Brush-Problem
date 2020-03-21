@@ -4,6 +4,8 @@ LeetCode
 
 | # | Title | c++ | python | java | Difficulty |
 | :-------------: | :---------------: | :------------------: | :--------------------: | :--------------------: | :--------------------: |
+
+|0365|[Water and Jug Problem](https://leetcode-cn.com/problems/water-and-jug-problem/)| | |[java](./365/365.java)|Medium|
 |0382|[Linked List Random Node](https://leetcode-cn.com/problems/linked-list-random-node/)| | |[java](./382/382.java)|Medium|
 |0409|[Longest Palindrome](https://leetcode-cn.com/problems/longest-palindrome/)| | |[java](./409/409.java)|Easy|
 |0516|[Longest Palindromic Subsequence](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)| | |[java](./516/516.java)|Medium|
