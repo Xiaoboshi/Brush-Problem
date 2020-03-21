@@ -13,6 +13,7 @@ LeetCode
 |0836|[Rectangle Overlap](https://leetcode-cn.com/problems/rectangle-overlap/)| | |[java](./836/836.java)|Easy|
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/)| | |[java](./1160/1160.java)|Easy|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/)| | |[java](./1342/1342.java)|Easy|
+|1343|[Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode-cn.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)| | |[java](./1343/1343.java)|Medium|
 |1344|[Angle Between Hands of a Clock](https://leetcode-cn.com/problems/angle-between-hands-of-a-clock/)| | |[java](./1344/1344.java)|Easy|
 |1367|[Linked List in Binary Tree](https://leetcode-cn.com/problems/linked-list-in-binary-tree/)| | |[java](./1367/1367.java)|Medium|
 |1382|[Balance a Binary Search Tree](https://leetcode-cn.com/problems/balance-a-binary-search-tree/)| | |[java](./1382/1382.java)|Medium|
