@@ -11,6 +11,7 @@ LeetCode
 |0539|[Minimum Time Difference](https://leetcode-cn.com/problems/minimum-time-difference/)| | |[java](./539/539.java)|Medium|
 |0695|[Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/)| | |[java](./695/695.java)|Medium|
 |0836|[Rectangle Overlap](https://leetcode-cn.com/problems/rectangle-overlap/)| | |[java](./836/836.java)|Easy|
+|0945|[Minimum Increment to Make Array Unique](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)| | |[java](./945/945.java)|Medium|
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/)| | |[java](./1160/1160.java)|Easy|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/)| | |[java](./1342/1342.java)|Easy|
 |1343|[Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode-cn.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)| | |[java](./1343/1343.java)|Medium|
