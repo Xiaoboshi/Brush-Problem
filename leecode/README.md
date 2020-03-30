@@ -22,6 +22,7 @@ LeetCode
 |1344|[Angle Between Hands of a Clock](https://leetcode-cn.com/problems/angle-between-hands-of-a-clock/)| | |[java](./1344/1344.java)|Easy|
 |1367|[Linked List in Binary Tree](https://leetcode-cn.com/problems/linked-list-in-binary-tree/)| | |[java](./1367/1367.java)|Medium|
 |1382|[Balance a Binary Search Tree](https://leetcode-cn.com/problems/balance-a-binary-search-tree/)| | |[java](./1382/1382.java)|Medium|
+|1395|[Count Number Of Teams](https://leetcode-cn.com/problems/count-number-of-teams/)| | |[java](./1395/1395.java)|Medium|
 |1396|[Design Underground System](https://leetcode-cn.com/problems/design-underground-system/)| | |[java](./1396/1396.java)|Medium|
 |5172|[Largest Multiple of Three](https://leetcode-cn.com/contest/weekly-contest-177/problems/largest-multiple-of-three/) | | |[java](./5172/5172.java)|Hard|
 |5178|[Four Divisors](https://leetcode-cn.com/problems/four-divisors/) | | |[java](./5178/5178_2.java)|Medium|
