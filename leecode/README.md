@@ -14,6 +14,7 @@ LeetCode
 |0695|[Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/)| | |[java](./695/695.java)|Medium|
 |0836|[Rectangle Overlap](https://leetcode-cn.com/problems/rectangle-overlap/)| | |[java](./836/836.java)|Easy|
 |0876|[Middle of the Linked List](https://leetcode-cn.com/problems/middle-of-the-linked-list/)| | |[java](./876/876.java)|Easy|
+|0912|[Sort an Array](https://leetcode-cn.com/problems/sort-an-array/)| | |[java](./912/912.java)|Medium|
 |0945|[Minimum Increment to Make Array Unique](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)| | |[java](./945/945.java)|Medium|
 |0999|[Available Captures For Rook](https://leetcode-cn.com/problems/available-captures-for-rook/)| | |[java](./999/999.java)|Easy
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/)| | |[java](./1160/1160.java)|Easy|
