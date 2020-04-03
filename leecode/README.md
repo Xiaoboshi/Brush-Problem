@@ -4,6 +4,7 @@ LeetCode
 
 | # | Title | c++ | python | java | Difficulty |
 | :-------------: | :---------------: | :------------------: | :--------------------: | :--------------------: | :--------------------: |
+|0008|[String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)| | |[java](./8/8.java)|Medium|
 |0055|[Jump Game](https://leetcode-cn.com/problems/jump-game/)| | |[java](./55/55.java)|Medium|
 |0152|[Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)| | |[java](./152/152.java)|Medium|
 |0289|[Game Of Life](https://leetcode-cn.com/problems/game-of-life/)| | |[java](./289/289.java)|Medium|
