@@ -22,6 +22,7 @@ LeetCode
 |0945|[Minimum Increment to Make Array Unique](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)| | |[java](./945/945.java)|Medium|
 |0996|[Number Of Squareful Arrays](https://leetcode-cn.com/problems/number-of-squareful-arrays/)| | |[java](./996/996.java)|Hard|
 |0999|[Available Captures For Rook](https://leetcode-cn.com/problems/available-captures-for-rook/)| | |[java](./999/999.java)|Easy|
+|1406|[Stone Game III](https://leetcode-cn.com/problems/stone-game-iii/)| | |[java](./1406/1406.java)|Hard|
 |1111|[Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/)| | |[java](./1111/1111.java)|Medium|
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/)| | |[java](./1160/1160.java)|Easy|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/)| | |[java](./1342/1342.java)|Easy|
