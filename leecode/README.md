@@ -32,7 +32,6 @@ LeetCode
 |1387|[Sort Integers by The Power Value](https://leetcode-cn.com/problems/sort-integers-by-the-power-value/)| | |[java](./1387/1387.java)|Medium|
 |1395|[Count Number Of Teams](https://leetcode-cn.com/problems/count-number-of-teams/)| | |[java](./1395/1395.java)|Medium|
 |1396|[Design Underground System](https://leetcode-cn.com/problems/design-underground-system/)| | |[java](./1396/1396.java)|Medium|
-https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/
 |1402|[Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/)| | |[java](./1402/1402.java)|Hard|
 |1406|[Stone Game III](https://leetcode-cn.com/problems/stone-game-iii/)| | |[java](./1406/1406.java)|Hard|
 |5172|[Largest Multiple of Three](https://leetcode-cn.com/contest/weekly-contest-177/problems/largest-multiple-of-three/) | | |[java](./5172/5172.java)|Hard|
