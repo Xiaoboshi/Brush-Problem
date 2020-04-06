@@ -34,7 +34,6 @@ LeetCode
 |1396|[Design Underground System](https://leetcode-cn.com/problems/design-underground-system/)| | |[java](./1396/1396.java)|Medium|
 |1402|[Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/)| | |[java](./1402/1402.java)|Hard|
 |1403|[Minimum Subsequence in Non-Increasing Order](https://leetcode-cn.com/problems/minimum-subsequence-in-non-increasing-order/)| | |[java](./1403/1403.java)|Hard|
-https://leetcode-cn.com/problems/minimum-subsequence-in-non-increasing-order/
 |1406|[Stone Game III](https://leetcode-cn.com/problems/stone-game-iii/)| | |[java](./1406/1406.java)|Hard|
 |5172|[Largest Multiple of Three](https://leetcode-cn.com/contest/weekly-contest-177/problems/largest-multiple-of-three/) | | |[java](./5172/5172.java)|Hard|
 |5178|[Four Divisors](https://leetcode-cn.com/problems/four-divisors/) | | |[java](./5178/5178_2.java)|Medium|
