@@ -22,7 +22,6 @@ LeetCode
 |0945|[Minimum Increment to Make Array Unique](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)| | |[java](./945/945.java)|Medium|
 |0996|[Number Of Squareful Arrays](https://leetcode-cn.com/problems/number-of-squareful-arrays/)| | |[java](./996/996.java)|Hard|
 |0999|[Available Captures For Rook](https://leetcode-cn.com/problems/available-captures-for-rook/)| | |[java](./999/999.java)|Easy|
-|1406|[Stone Game III](https://leetcode-cn.com/problems/stone-game-iii/)| | |[java](./1406/1406.java)|Hard|
 |1111|[Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/)| | |[java](./1111/1111.java)|Medium|
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/)| | |[java](./1160/1160.java)|Easy|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/)| | |[java](./1342/1342.java)|Easy|
@@ -33,6 +32,9 @@ LeetCode
 |1387|[Sort Integers by The Power Value](https://leetcode-cn.com/problems/sort-integers-by-the-power-value/)| | |[java](./1387/1387.java)|Medium|
 |1395|[Count Number Of Teams](https://leetcode-cn.com/problems/count-number-of-teams/)| | |[java](./1395/1395.java)|Medium|
 |1396|[Design Underground System](https://leetcode-cn.com/problems/design-underground-system/)| | |[java](./1396/1396.java)|Medium|
+https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/
+|1402|[Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/)| | |[java](./1402/1402.java)|Hard|
+|1406|[Stone Game III](https://leetcode-cn.com/problems/stone-game-iii/)| | |[java](./1406/1406.java)|Hard|
 |5172|[Largest Multiple of Three](https://leetcode-cn.com/contest/weekly-contest-177/problems/largest-multiple-of-three/) | | |[java](./5172/5172.java)|Hard|
 |5178|[Four Divisors](https://leetcode-cn.com/problems/four-divisors/) | | |[java](./5178/5178_2.java)|Medium|
 |5355|[Frog Position After T Seconds](https://leetcode-cn.com/contest/weekly-contest-179/problems/frog-position-after-t-seconds/) | | |[java](./5355/5355.java)|Hard|
