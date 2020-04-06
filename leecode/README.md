@@ -7,6 +7,7 @@ LeetCode
 |0008|[String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)| | |[java](./8/8.java)|Medium|
 |0042|[Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/)| | |[java](./42/42.java)|Hard|
 |0055|[Jump Game](https://leetcode-cn.com/problems/jump-game/)| | |[java](./55/55.java)|Medium|
+|0072|[Edit Distance](https://leetcode-cn.com/problems/edit-distance/)| | |[java](./72/72.java)|Hard|
 |0152|[Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)| | |[java](./152/152.java)|Medium|
 |0289|[Game Of Life](https://leetcode-cn.com/problems/game-of-life/)| | |[java](./289/289.java)|Medium|
 |0365|[Water and Jug Problem](https://leetcode-cn.com/problems/water-and-jug-problem/)| | |[java](./365/365.java)|Medium|
