@@ -8,6 +8,7 @@ LeetCode
 |0042|[Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/)| | |[java](./42/42.java)|Hard|
 |0055|[Jump Game](https://leetcode-cn.com/problems/jump-game/)| | |[java](./55/55.java)|Medium|
 |0072|[Edit Distance](https://leetcode-cn.com/problems/edit-distance/)| | |[java](./72/72.java)|Hard|
+|0124|[Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/submissions/)| | |[java](./124/124.java)|Hard|
 |0128|[Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/)| | |[java](./128/128.java)|Hard|
 |0152|[Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)| | |[java](./152/152.java)|Medium|
 |0289|[Game Of Life](https://leetcode-cn.com/problems/game-of-life/)| | |[java](./289/289.java)|Medium|
