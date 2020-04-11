@@ -6,6 +6,7 @@ LeetCode
 | :-------------: | :---------------: | :------------------: | :--------------------: | :--------------------: | :--------------------: |
 |0008|[String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)| | |[java](./8/8.java)|Medium|
 |0022|[Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/)| | |[java](./22/22.java)|Medium|
+|0023|[Merge K Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/)| | |[java](./23/23.java)|Hard|
 |0042|[Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/)| | |[java](./42/42.java)|Hard|
 |0055|[Jump Game](https://leetcode-cn.com/problems/jump-game/)| | |[java](./55/55.java)|Medium|
 |0056|[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/)| | |[java](./56/56.java)|Medium|
