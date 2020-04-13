@@ -8,7 +8,7 @@
  
 
 示例 1：
-![alt](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2020/04/12/e1.png)
+![图 1](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2020/04/12/e1.png)
 
 输入：n = 1
 输出：12
