@@ -16,6 +16,7 @@ LeetCode
 |0151|[Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)| | |[java](./code/151/151.java)|Medium|
 |0152|[Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)| | |[java](./code/152/152.java)|Medium|
 |0289|[Game Of Life](https://leetcode-cn.com/problems/game-of-life/)| | |[java](./code/289/289.java)|Medium|
+|0355|[Design Twitter](https://leetcode-cn.com/problems/design-twitter/)| | |[java](./code/355/355.java)|Medium|
 |0365|[Water and Jug Problem](https://leetcode-cn.com/problems/water-and-jug-problem/)| | |[java](./code/365/365.java)|Medium|
 |0382|[Linked List Random Node](https://leetcode-cn.com/problems/linked-list-random-node/)| | |[java](./code/382/382.java)|Medium|
 |0409|[Longest Palindrome](https://leetcode-cn.com/problems/longest-palindrome/)| | |[java](./code/409/409.java)|Easy|
@@ -45,6 +46,10 @@ LeetCode
 |1402|[Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/)| | |[java](./code/1402/1402.java)|Hard|
 |1403|[Minimum Subsequence in Non-Increasing Order](https://leetcode-cn.com/problems/minimum-subsequence-in-non-increasing-order/)| | |[java](./code/1403/1403.java)|Hard|
 |1406|[Stone Game III](https://leetcode-cn.com/problems/stone-game-iii/)| | |[java](./code/1406/1406.java)|Hard|
+|1408|[String Matching in an Array](https://leetcode-cn.com/problems/string-matching-in-an-array/)| | |[java](./code/1408/1408.java)|Easy|
+|1409|[Queries on a Permutation With Key](https://leetcode-cn.com/problems/queries-on-a-permutation-with-key/)| | |[java](./code/1409/1409.java)|Medium|
+|1410|[HTML Entity Parser](https://leetcode-cn.com/problems/html-entity-parser/)| | |[java](./code/1410/1410.java)|Medium|
+|1411|[Number of Ways to Paint N × 3 Grid](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-x-3-grid/)| | |[java](./code/1411/1411.java)|Hard|
 |5172|[Largest Multiple of Three](https://leetcode-cn.com/contest/weekly-contest-177/problems/largest-multiple-of-three/) | | |[java](./code/5172/5172.java)|Hard|
 |5178|[Four Divisors](https://leetcode-cn.com/problems/four-divisors/) | | |[java](./code/5178/5178_2.java)|Medium|
 |5355|[Frog Position After T Seconds](https://leetcode-cn.com/contest/weekly-contest-179/problems/frog-position-after-t-seconds/) | | |[java](./code/5355/5355.java)|Hard|
@@ -57,3 +62,4 @@ LeetCode
 |面试题62|[The last number in the circle](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | | |[java](./code/面试题62/62.java)|Easy|
 |面试题0106|[Compress String LCCI](https://leetcode-cn.com/problems/compress-string-lcci/) | | |[java](./code/面试题0106/0106.java)|Easy|
 |面试题0107|[Rotate Matrix LCCI](https://leetcode-cn.com/problems/rotate-matrix-lcci/) | | |[java](./code/面试题0107/0107.java)|Medium|
+|面试题1603|[Intersection LCCI](https://leetcode-cn.com/problems/intersection-lcci/) | | |[java](./code/面试题1603/1603.java)|Hard|
