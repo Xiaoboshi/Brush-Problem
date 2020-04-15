@@ -24,6 +24,7 @@ LeetCode
 |0475|[Heaters](https://leetcode-cn.com/problems/heaters/)| | |[java](./code/475/475.java)|Easy|
 |0516|[Longest Palindromic Subsequence](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)| | |[java](./code/516/516.java)|Medium|
 |0539|[Minimum Time Difference](https://leetcode-cn.com/problems/minimum-time-difference/)| | |[java](./code/539/539.java)|Medium|
+|0542|[01 Matrix](https://leetcode-cn.com/problems/01-matrix/)| | |[java](./code/542/542.java)|Medium|
 |0647|[Palindromic Substrings](https://leetcode-cn.com/problems/palindromic-substrings/)| | |[java](./code/647/647.java)|Medium|
 |0695|[Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/)| | |[java](./code/695/695.java)|Medium|
 |0739|[Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)| | |[java](./code/739/739.java)|Medium|
