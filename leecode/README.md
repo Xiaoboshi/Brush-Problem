@@ -11,6 +11,7 @@ LeetCode
 |0055|[Jump Game](https://leetcode-cn.com/problems/jump-game/)| | |[java](./code/55/55.java)|Medium|
 |0056|[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/)| | |[java](./code/56/56.java)|Medium|
 |0072|[Edit Distance](https://leetcode-cn.com/problems/edit-distance/)| | |[java](./code/72/72.java)|Hard|
+|0075|[Sort Colors](https://leetcode-cn.com/problems/sort-colors/)| | |[java](./code/75/75.java)|Medium|
 |0124|[Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/submissions/)| | |[java](./code/124/124.java)|Hard|
 |0128|[Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/)| | |[java](./code/128/128.java)|Hard|
 |0151|[Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)| | |[java](./code/151/151.java)|Medium|
