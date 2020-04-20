@@ -16,7 +16,10 @@ LeetCode
 |0128|[Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/)| | |[java](./code/128/128.java)|Hard|
 |0151|[Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)| | |[java](./code/151/151.java)|Medium|
 |0152|[Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)| | |[java](./code/152/152.java)|Medium|
+|0200|[Number of Islands](https://leetcode-cn.com/problems/number-of-islands/)| | |[java](./code/200/200.java)|Medium|
 |0289|[Game Of Life](https://leetcode-cn.com/problems/game-of-life/)| | |[java](./code/289/289.java)|Medium|
+|0297|[Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)| | |[java](./code/297/297.java)|Hard|
+|0312|[Burst Balloons](https://leetcode-cn.com/problems/burst-balloons/)| | |[java](./code/312/312.java)|Hard|
 |0355|[Design Twitter](https://leetcode-cn.com/problems/design-twitter/)| | |[java](./code/355/355.java)|Medium|
 |0365|[Water and Jug Problem](https://leetcode-cn.com/problems/water-and-jug-problem/)| | |[java](./code/365/365.java)|Medium|
 |0382|[Linked List Random Node](https://leetcode-cn.com/problems/linked-list-random-node/)| | |[java](./code/382/382.java)|Medium|
