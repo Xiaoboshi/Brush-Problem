@@ -12,14 +12,17 @@ LeetCode
 |0056|[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/)| | |[java](./code/56/56.java)|Medium|
 |0072|[Edit Distance](https://leetcode-cn.com/problems/edit-distance/)| | |[java](./code/72/72.java)|Hard|
 |0075|[Sort Colors](https://leetcode-cn.com/problems/sort-colors/)| | |[java](./code/75/75.java)|Medium|
+|0084|[Largest Rectangle in Histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)| | |[java](./code/84/84.java)|Hard|
 |0124|[Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/submissions/)| | |[java](./code/124/124.java)|Hard|
 |0128|[Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/)| | |[java](./code/128/128.java)|Hard|
 |0151|[Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)| | |[java](./code/151/151.java)|Medium|
 |0152|[Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)| | |[java](./code/152/152.java)|Medium|
 |0200|[Number of Islands](https://leetcode-cn.com/problems/number-of-islands/)| | |[java](./code/200/200.java)|Medium|
+|0279|[Perfect Squares](https://leetcode-cn.com/problems/perfect-squares/)| | |[java](./code/279/279.java)|Medium|
 |0289|[Game Of Life](https://leetcode-cn.com/problems/game-of-life/)| | |[java](./code/289/289.java)|Medium|
 |0297|[Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)| | |[java](./code/297/297.java)|Hard|
 |0312|[Burst Balloons](https://leetcode-cn.com/problems/burst-balloons/)| | |[java](./code/312/312.java)|Hard|
+|0347|[Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/)| | |[java](./code/347/347.java)|Medium|
 |0355|[Design Twitter](https://leetcode-cn.com/problems/design-twitter/)| | |[java](./code/355/355.java)|Medium|
 |0365|[Water and Jug Problem](https://leetcode-cn.com/problems/water-and-jug-problem/)| | |[java](./code/365/365.java)|Medium|
 |0382|[Linked List Random Node](https://leetcode-cn.com/problems/linked-list-random-node/)| | |[java](./code/382/382.java)|Medium|
@@ -30,6 +33,7 @@ LeetCode
 |0516|[Longest Palindromic Subsequence](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)| | |[java](./code/516/516.java)|Medium|
 |0539|[Minimum Time Difference](https://leetcode-cn.com/problems/minimum-time-difference/)| | |[java](./code/539/539.java)|Medium|
 |0542|[01 Matrix](https://leetcode-cn.com/problems/01-matrix/)| | |[java](./code/542/542.java)|Medium|
+|0560|[Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)| | |[java](./code/560/560.java)|Medium|
 |0647|[Palindromic Substrings](https://leetcode-cn.com/problems/palindromic-substrings/)| | |[java](./code/647/647.java)|Medium|
 |0695|[Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/)| | |[java](./code/695/695.java)|Medium|
 |0739|[Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)| | |[java](./code/739/739.java)|Medium|
@@ -42,6 +46,7 @@ LeetCode
 |0999|[Available Captures For Rook](https://leetcode-cn.com/problems/available-captures-for-rook/)| | |[java](./code/999/999.java)|Easy|
 |1111|[Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/)| | |[java](./code/1111/1111.java)|Medium|
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/)| | |[java](./code/1160/1160.java)|Easy|
+|1248|[Count Number of Nice Subarrays](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/)| | |[java](./code/1248/1248.java)|Medium|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/)| | |[java](./code/1342/1342.java)|Easy|
 |1343|[Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode-cn.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)| | |[java](./code/1343/1343.java)|Medium|
 |1344|[Angle Between Hands of a Clock](https://leetcode-cn.com/problems/angle-between-hands-of-a-clock/)| | |[java](./code/1344/1344.java)|Easy|
