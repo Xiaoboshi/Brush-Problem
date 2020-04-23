@@ -12,28 +12,35 @@ LeetCode
 |0056|[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/)| | |[java](./code/56/56.java)|Medium|
 |0072|[Edit Distance](https://leetcode-cn.com/problems/edit-distance/)| | |[java](./code/72/72.java)|Hard|
 |0075|[Sort Colors](https://leetcode-cn.com/problems/sort-colors/)| | |[java](./code/75/75.java)|Medium|
+|0076|[Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/)| | |[java](./code/76/76.java)|Hard|
 |0084|[Largest Rectangle in Histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)| | |[java](./code/84/84.java)|Hard|
+|0098|[Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)| | |[java](./code/98/98.java)|Medium|
 |0124|[Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/submissions/)| | |[java](./code/124/124.java)|Hard|
 |0128|[Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/)| | |[java](./code/128/128.java)|Hard|
 |0151|[Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)| | |[java](./code/151/151.java)|Medium|
 |0152|[Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)| | |[java](./code/152/152.java)|Medium|
+|0199|[Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/)| | |[java](./code/199/199.java)|Medium|
 |0200|[Number of Islands](https://leetcode-cn.com/problems/number-of-islands/)| | |[java](./code/200/200.java)|Medium|
 |0279|[Perfect Squares](https://leetcode-cn.com/problems/perfect-squares/)| | |[java](./code/279/279.java)|Medium|
 |0289|[Game Of Life](https://leetcode-cn.com/problems/game-of-life/)| | |[java](./code/289/289.java)|Medium|
 |0297|[Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)| | |[java](./code/297/297.java)|Hard|
 |0312|[Burst Balloons](https://leetcode-cn.com/problems/burst-balloons/)| | |[java](./code/312/312.java)|Hard|
+|0337|[House Robber III](https://leetcode-cn.com/problems/house-robber-iii/)| | |[java](./code/337/337.java)|Medium|
 |0347|[Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/)| | |[java](./code/347/347.java)|Medium|
 |0355|[Design Twitter](https://leetcode-cn.com/problems/design-twitter/)| | |[java](./code/355/355.java)|Medium|
 |0365|[Water and Jug Problem](https://leetcode-cn.com/problems/water-and-jug-problem/)| | |[java](./code/365/365.java)|Medium|
 |0382|[Linked List Random Node](https://leetcode-cn.com/problems/linked-list-random-node/)| | |[java](./code/382/382.java)|Medium|
+|0406|[Queue Reconstruction by Height](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)| | |[java](./code/406/406.java)|Medium|
 |0409|[Longest Palindrome](https://leetcode-cn.com/problems/longest-palindrome/)| | |[java](./code/409/409.java)|Easy|
 |0455|[Add Two Numbers II](https://leetcode-cn.com/problems/add-two-numbers-ii/)| | |[java](./code/455/455.java)|Medium|
+|0461|[Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/)| | |[java](./code/461/461.java)|Easy|
 |0466|[Count The Repetitions](https://leetcode-cn.com/problems/count-the-repetitions/)| | |[java](./code/466/466.java)|Hard|
 |0475|[Heaters](https://leetcode-cn.com/problems/heaters/)| | |[java](./code/475/475.java)|Easy|
 |0516|[Longest Palindromic Subsequence](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)| | |[java](./code/516/516.java)|Medium|
 |0539|[Minimum Time Difference](https://leetcode-cn.com/problems/minimum-time-difference/)| | |[java](./code/539/539.java)|Medium|
 |0542|[01 Matrix](https://leetcode-cn.com/problems/01-matrix/)| | |[java](./code/542/542.java)|Medium|
 |0560|[Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)| | |[java](./code/560/560.java)|Medium|
+|0617|[Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/)| | |[java](./code/617/617.java)|Easy|
 |0647|[Palindromic Substrings](https://leetcode-cn.com/problems/palindromic-substrings/)| | |[java](./code/647/647.java)|Medium|
 |0695|[Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/)| | |[java](./code/695/695.java)|Medium|
 |0739|[Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)| | |[java](./code/739/739.java)|Medium|
@@ -74,4 +81,5 @@ LeetCode
 |面试题62|[The last number in the circle](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | | |[java](./code/面试题62/62.java)|Easy|
 |面试题0106|[Compress String LCCI](https://leetcode-cn.com/problems/compress-string-lcci/) | | |[java](./code/面试题0106/0106.java)|Easy|
 |面试题0107|[Rotate Matrix LCCI](https://leetcode-cn.com/problems/rotate-matrix-lcci/) | | |[java](./code/面试题0107/0107.java)|Medium|
+|面试题0811|[Coin Lcci](https://leetcode-cn.com/problems/coin-lcci/) | | |[java](./code/面试题0811/0811.java)|Medium|
 |面试题1603|[Intersection LCCI](https://leetcode-cn.com/problems/intersection-lcci/) | | |[java](./code/面试题1603/1603.java)|Hard|
