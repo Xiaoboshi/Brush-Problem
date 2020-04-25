@@ -8,6 +8,7 @@ LeetCode
 |0022|[Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/)| | |[java](./code/22/22.java)|Medium|
 |0023|[Merge K Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/)| | |[java](./code/23/23.java)|Hard|
 |0042|[Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/)| | |[java](./code/42/42.java)|Hard|
+|0046|[Permutations](https://leetcode-cn.com/problems/permutations/)| | |[java](./code/46/46.java)|Medium|
 |0055|[Jump Game](https://leetcode-cn.com/problems/jump-game/)| | |[java](./code/55/55.java)|Medium|
 |0056|[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/)| | |[java](./code/56/56.java)|Medium|
 |0072|[Edit Distance](https://leetcode-cn.com/problems/edit-distance/)| | |[java](./code/72/72.java)|Hard|
