@@ -4,6 +4,7 @@ LeetCode
 
 | # | Title | c++ | python | java | Difficulty |
 | :-------------: | :---------------: | :------------------: | :--------------------: | :--------------------: | :--------------------: |
+|0003|[Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)| | |[java](./code/3/3.java)|Medium|
 |0008|[String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)| | |[java](./code/8/8.java)|Medium|
 |0022|[Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/)| | |[java](./code/22/22.java)|Medium|
 |0023|[Merge K Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/)| | |[java](./code/23/23.java)|Hard|
