@@ -74,10 +74,14 @@ LeetCode
 |1411|[Number of Ways to Paint N × 3 Grid](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-x-3-grid/)| | |[java](./code/1411/1411.java)|Hard|
 |5172|[Largest Multiple of Three](https://leetcode-cn.com/contest/weekly-contest-177/problems/largest-multiple-of-three/) | | |[java](./code/5172/5172.java)|Hard|
 |5178|[Four Divisors](https://leetcode-cn.com/problems/four-divisors/) | | |[java](./code/5178/5178_2.java)|Medium|
+|5180|[Constrained Subset Sum](https://leetcode-cn.com/problems/constrained-subset-sum/) | | |[java](./code/5180/5180.java)|Hard|
 |5355|[Frog Position After T Seconds](https://leetcode-cn.com/contest/weekly-contest-179/problems/frog-position-after-t-seconds/) | | |[java](./code/5355/5355.java)|Hard|
 |5357|[Design a Stack With Increment Operation](https://leetcode-cn.com/contest/weekly-contest-180/problems/design-a-stack-with-increment-operation/) | | |[java](./code/5357/5357.java)|Medium|
 |5359|[Maximum Performance of a Team](https://leetcode-cn.com/problems/maximum-performance-of-a-team/) | | |[java](./code/5359/5359_1.java)|Hard|
 |5367|[Longest Happy Prefix](https://leetcode-cn.com/problems/longest-happy-prefix/) | | 待更新|[java](./code/5367/5367.java)|Hard|
+|5392|[Maximum Score After Splitting a String](https://leetcode-cn.com/problems/maximum-score-after-splitting-a-string/) | | |[java](./code/5392/5392.java)|Easy|
+|5393|[Maximum Points You Can Obtain from Cards](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards/) | | |[java](./code/5393/5393.java)|Medium|
+|5394|[Diagonal Traverse II](https://leetcode-cn.com/problems/diagonal-traverse-ii/) | | |[java](./code/5394/5394.java)|Medium|
 |面试题13|[Ji Qi Ren De Yun Dong Fan Wei Lcof](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | | |[java](./code/面试题13/13.java)|Medium|
 |面试题40|[Zui Xiao De Kge Shu Lcof](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | | |[java](./code/面试题40/40.java)|Easy|
 |面试题51|[Shu Zu Zhong De Ni Xu Dui Lcof](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) | | |[java](./code/面试题51/51.java)|Hard|
