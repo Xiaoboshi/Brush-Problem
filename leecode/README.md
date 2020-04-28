@@ -4,6 +4,8 @@ LeetCode
 
 | # | Title | c++ | python | java | Difficulty |
 | :-------------: | :---------------: | :------------------: | :--------------------: | :--------------------: | :--------------------: |
+|0001|[Two Sum](https://leetcode-cn.com/problems/two-sum/)| |[python](./code/1/1.py)| |Easy|
+|0002|[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/)| | |[java](./code/2/2.java)|Medium|
 |0003|[Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)| | |[java](./code/3/3.java)|Medium|
 |0008|[String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)| | |[java](./code/8/8.java)|Medium|
 |0022|[Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/)| | |[java](./code/22/22.java)|Medium|
