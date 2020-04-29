@@ -21,8 +21,10 @@ LeetCode
 |0076|[Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/)| | |[java](./code/76/76.java)|Hard|
 |0084|[Largest Rectangle in Histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)| | |[java](./code/84/84.java)|Hard|
 |0098|[Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)| | |[java](./code/98/98.java)|Medium|
+|0114|[Flatten Binary Tree to Linked List](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)| | |[java](./code/114/114.java)|Medium|
 |0124|[Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/submissions/)| | |[java](./code/124/124.java)|Hard|
 |0128|[Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/)| | |[java](./code/128/128.java)|Hard|
+|0139|[Word Break](https://leetcode-cn.com/problems/word-break/)| | |[java](./code/139/139.java)|Medium|
 |0151|[Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)| | |[java](./code/151/151.java)|Medium|
 |0152|[Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)| | |[java](./code/152/152.java)|Medium|
 |0199|[Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/)| | |[java](./code/199/199.java)|Medium|
@@ -57,6 +59,7 @@ LeetCode
 |0945|[Minimum Increment to Make Array Unique](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)| | |[java](./code/945/945.java)|Medium|
 |0996|[Number Of Squareful Arrays](https://leetcode-cn.com/problems/number-of-squareful-arrays/)| | |[java](./code/996/996.java)|Hard|
 |0999|[Available Captures For Rook](https://leetcode-cn.com/problems/available-captures-for-rook/)| | |[java](./code/999/999.java)|Easy|
+|1095|[Find in Mountain Array](https://leetcode-cn.com/problems/find-in-mountain-array/)| | |[java](./code/1095/1095.java)|Hard|
 |1111|[Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/)| | |[java](./code/1111/1111.java)|Medium|
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/)| | |[java](./code/1160/1160.java)|Easy|
 |1248|[Count Number of Nice Subarrays](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/)| | |[java](./code/1248/1248.java)|Medium|
