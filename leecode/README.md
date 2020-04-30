@@ -8,10 +8,12 @@ LeetCode
 |0002|[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/)| | |[java](./code/2/2.java)|Medium|
 |0003|[Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)| | |[java](./code/3/3.java)|Medium|
 |0008|[String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)| | |[java](./code/8/8.java)|Medium|
+|0017|[Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)| | |[java](./code/17/17.java)|Medium|
 |0022|[Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/)| | |[java](./code/22/22.java)|Medium|
 |0023|[Merge K Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/)| | |[java](./code/23/23.java)|Hard|
 |0031|[Next Permutation](https://leetcode-cn.com/problems/next-permutation/)| | |[java](./code/31/31.java)|Medium|
 |0033|[Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)| | |[java](./code/33/33.java)|Medium|
+|0034|[Find First and Last Position of Element in Sorted Array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| | |[java](./code/34/34.java)|Medium|
 |0042|[Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/)| | |[java](./code/42/42.java)|Hard|
 |0046|[Permutations](https://leetcode-cn.com/problems/permutations/)| | |[java](./code/46/46.java)|Medium|
 |0055|[Jump Game](https://leetcode-cn.com/problems/jump-game/)| | |[java](./code/55/55.java)|Medium|
@@ -29,6 +31,7 @@ LeetCode
 |0152|[Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)| | |[java](./code/152/152.java)|Medium|
 |0199|[Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/)| | |[java](./code/199/199.java)|Medium|
 |0200|[Number of Islands](https://leetcode-cn.com/problems/number-of-islands/)| | |[java](./code/200/200.java)|Medium|
+|0202|[Happy Number](https://leetcode-cn.com/problems/happy-number/)| | |[java](./code/202/202.java)|Easy|
 |0279|[Perfect Squares](https://leetcode-cn.com/problems/perfect-squares/)| | |[java](./code/279/279.java)|Medium|
 |0289|[Game Of Life](https://leetcode-cn.com/problems/game-of-life/)| | |[java](./code/289/289.java)|Medium|
 |0297|[Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)| | |[java](./code/297/297.java)|Hard|
