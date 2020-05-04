@@ -149,11 +149,11 @@ class myForm(QtWidgets.QWidget, Ui_Form):
                 QMessageBox.question(self, "提示信息", "文件已经存在", QMessageBox.Yes | QMessageBox.No)
                 return 0
             
-            file_dis = open(os_dir + "README.md", "w")
+            file_dis = open(os_dir + "README.md", "w", encoding='utf-8')
             file_dis.write(discribe)
             file_dis.close()
 
-            file_code = open(os_dir + str(num) + ".java", "w")
+            file_code = open(os_dir + str(num) + ".java", "w", encoding='utf-8')
             file_code.write(code)
             file_code.close()
             
