@@ -145,9 +145,6 @@ class myForm(QtWidgets.QWidget, Ui_Form):
             os_dir = "./code/" + str(num) + '/'
             if not os.path.exists(os_dir):
                 os.makedirs(os_dir)
-            else:
-                QMessageBox.question(self, "提示信息", "文件已经存在", QMessageBox.Yes | QMessageBox.No)
-                return 0
             
             file_dis = open(os_dir + "README.md", "w", encoding='utf-8')
             file_dis.write(discribe)
