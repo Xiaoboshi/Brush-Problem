@@ -6,7 +6,7 @@ LeetCode
 | :-------------: | :---------------: | :------------------: | :--------------------: | :--------------------: | :--------------------: |
 |0001|[Two Sum](https://leetcode-cn.com/problems/two-sum/)| |[python](./code/1/1.py)| |Easy|
 |0002|[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/)| | |[java](./code/2/2.java)|Medium|
-|0003|[Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)| | |[java](./code/3/3.java)|Medium|
+|0003|[Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)| |[python](./code/3/3.py)|[java](./code/3/3.java)|Medium|
 |0008|[String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)| | |[java](./code/8/8.java)|Medium|
 |0017|[Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)| | |[java](./code/17/17.java)|Medium|
 |0021|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)| |[python](./code/21/21.py)|[java](./code/21/21.java) |Easy|
@@ -15,14 +15,19 @@ LeetCode
 |0031|[Next Permutation](https://leetcode-cn.com/problems/next-permutation/)| | |[java](./code/31/31.java)|Medium|
 |0033|[Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)| | |[java](./code/33/33.java)|Medium|
 |0034|[Find First and Last Position of Element in Sorted Array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| | |[java](./code/34/34.java)|Medium|
+|0039|[Combination Sum](https://leetcode-cn.com/problems/combination-sum/)| | |[java](./code/39/39.java)|Medium|
 |0042|[Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/)| | |[java](./code/42/42.java)|Hard|
+|0045|[Jump Game II](https://leetcode-cn.com/problems/jump-game-ii/)| | |[java](./code/45/45.java)|Hard|
 |0046|[Permutations](https://leetcode-cn.com/problems/permutations/)| | |[java](./code/46/46.java)|Medium|
 |0048|[Rotate Image](https://leetcode-cn.com/problems/rotate-image/)| | |[java](./code/48/48.java)|Medium|
+|0049|[Group Anagrams](https://leetcode-cn.com/problems/group-anagrams/)| | |[java](./code/49/49.java)|Medium|
+|0053|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)| |[python](./code/53/53.py)|[java](./code/53/53.java)|Easy|
 |0055|[Jump Game](https://leetcode-cn.com/problems/jump-game/)| | |[java](./code/55/55.java)|Medium|
 |0056|[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/)| | |[java](./code/56/56.java)|Medium|
 |0072|[Edit Distance](https://leetcode-cn.com/problems/edit-distance/)| | |[java](./code/72/72.java)|Hard|
 |0075|[Sort Colors](https://leetcode-cn.com/problems/sort-colors/)| | |[java](./code/75/75.java)|Medium|
 |0076|[Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/)| | |[java](./code/76/76.java)|Hard|
+|0079|[Word Search](https://leetcode-cn.com/problems/word-search/)| | |[java](./code/79/79.java)|Medium|
 |0084|[Largest Rectangle in Histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)| | |[java](./code/84/84.java)|Hard|
 |0094|[Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)| | |[java](./code/94/94.java)|Medium|
 |0098|[Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)| | |[java](./code/98/98.java)|Medium|
@@ -46,6 +51,7 @@ LeetCode
 |0382|[Linked List Random Node](https://leetcode-cn.com/problems/linked-list-random-node/)| | |[java](./code/382/382.java)|Medium|
 |0406|[Queue Reconstruction by Height](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)| | |[java](./code/406/406.java)|Medium|
 |0409|[Longest Palindrome](https://leetcode-cn.com/problems/longest-palindrome/)| | |[java](./code/409/409.java)|Easy|
+|0416|[Partition Equal Subset Sum](https://leetcode-cn.com/problems/partition-equal-subset-sum/)| | |[java](./code/416/416.java)|Medium|
 |0455|[Add Two Numbers II](https://leetcode-cn.com/problems/add-two-numbers-ii/)| | |[java](./code/455/455.java)|Medium|
 |0461|[Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/)| | |[java](./code/461/461.java)|Easy|
 |0466|[Count The Repetitions](https://leetcode-cn.com/problems/count-the-repetitions/)| | |[java](./code/466/466.java)|Hard|
@@ -84,6 +90,7 @@ LeetCode
 |1409|[Queries on a Permutation With Key](https://leetcode-cn.com/problems/queries-on-a-permutation-with-key/)| | |[java](./code/1409/1409.java)|Medium|
 |1410|[HTML Entity Parser](https://leetcode-cn.com/problems/html-entity-parser/)| | |[java](./code/1410/1410.java)|Medium|
 |1411|[Number of Ways to Paint N × 3 Grid](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-x-3-grid/)| | |[java](./code/1411/1411.java)|Hard|
+|1411|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)| | |[java](./code/1438/1438.java)|Medium|
 |5172|[Largest Multiple of Three](https://leetcode-cn.com/contest/weekly-contest-177/problems/largest-multiple-of-three/) | | |[java](./code/5172/5172.java)|Hard|
 |5178|[Four Divisors](https://leetcode-cn.com/problems/four-divisors/) | | |[java](./code/5178/5178_2.java)|Medium|
 |5180|[Constrained Subset Sum](https://leetcode-cn.com/problems/constrained-subset-sum/) | | |[java](./code/5180/5180.java)|Hard|
@@ -94,6 +101,9 @@ LeetCode
 |5392|[Maximum Score After Splitting a String](https://leetcode-cn.com/problems/maximum-score-after-splitting-a-string/) | | |[java](./code/5392/5392.java)|Easy|
 |5393|[Maximum Points You Can Obtain from Cards](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards/) | | |[java](./code/5393/5393.java)|Medium|
 |5394|[Diagonal Traverse II](https://leetcode-cn.com/problems/diagonal-traverse-ii/) | | |[java](./code/5394/5394.java)|Medium|
+|5400|[Destination City](https://leetcode-cn.com/problems/destination-city/) | | |[java](./code/5400/5400.java)|Easy|
+|5401|[Check If All 1's Are at Least Length K Places Away](https://leetcode-cn.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | | |[java](./code/5401/5401.java)|Medium|
+|5403|[Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode-cn.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/) | | |[java](./code/5403/5403.java)|Hard|
 |面试题13|[Ji Qi Ren De Yun Dong Fan Wei Lcof](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | | |[java](./code/面试题13/13.java)|Medium|
 |面试题40|[Zui Xiao De Kge Shu Lcof](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | | |[java](./code/面试题40/40.java)|Easy|
 |面试题51|[Shu Zu Zhong De Ni Xu Dui Lcof](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) | | |[java](./code/面试题51/51.java)|Hard|
