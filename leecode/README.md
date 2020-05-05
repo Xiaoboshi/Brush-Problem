@@ -30,7 +30,8 @@ LeetCode
 |0079|[Word Search](https://leetcode-cn.com/problems/word-search/)| | |[java](./code/79/79.java)|Medium|
 |0084|[Largest Rectangle in Histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)| | |[java](./code/84/84.java)|Hard|
 |0094|[Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)| | |[java](./code/94/94.java)|Medium|
-|0098|[Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)| | |[java](./code/98/98.java)|Medium|
+|0096|[Unique Binary Search Trees](https://leetcode-cn.com/problems/unique-binary-search-trees/)| | |[java](./code/96/96.java)|Medium|
+|0098|[Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)| |[python](./code/98/98.py)|[java](./code/98/98.java)|Medium|
 |0114|[Flatten Binary Tree to Linked List](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)| | |[java](./code/114/114.java)|Medium|
 |0124|[Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/submissions/)| | |[java](./code/124/124.java)|Hard|
 |0128|[Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/)| | |[java](./code/128/128.java)|Hard|
@@ -40,10 +41,12 @@ LeetCode
 |0199|[Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/)| | |[java](./code/199/199.java)|Medium|
 |0200|[Number of Islands](https://leetcode-cn.com/problems/number-of-islands/)| | |[java](./code/200/200.java)|Medium|
 |0202|[Happy Number](https://leetcode-cn.com/problems/happy-number/)| | |[java](./code/202/202.java)|Easy|
+|0221|[Maximal Square](https://leetcode-cn.com/problems/maximal-square/)| | |[java](./code/221/221.java)|Medium|
 |0279|[Perfect Squares](https://leetcode-cn.com/problems/perfect-squares/)| | |[java](./code/279/279.java)|Medium|
 |0289|[Game Of Life](https://leetcode-cn.com/problems/game-of-life/)| | |[java](./code/289/289.java)|Medium|
 |0297|[Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)| | |[java](./code/297/297.java)|Hard|
 |0312|[Burst Balloons](https://leetcode-cn.com/problems/burst-balloons/)| | |[java](./code/312/312.java)|Hard|
+|0322|[Coin Change](https://leetcode-cn.com/problems/coin-change/)| | |[java](./code/322/322.java)|Medium|
 |0337|[House Robber III](https://leetcode-cn.com/problems/house-robber-iii/)| | |[java](./code/337/337.java)|Medium|
 |0347|[Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/)| | |[java](./code/347/347.java)|Medium|
 |0355|[Design Twitter](https://leetcode-cn.com/problems/design-twitter/)| | |[java](./code/355/355.java)|Medium|
