@@ -32,6 +32,8 @@ LeetCode
 |0094|[Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)| | |[java](./code/94/94.java)|Medium|
 |0096|[Unique Binary Search Trees](https://leetcode-cn.com/problems/unique-binary-search-trees/)| | |[java](./code/96/96.java)|Medium|
 |0098|[Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)| |[python](./code/98/98.py)|[java](./code/98/98.java)|Medium|
+|0102|[Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)| ||[java](./code/102/102.java)|Medium|
+|0104|[Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)| ||[java](./code/104/104.java)|Easy|
 |0114|[Flatten Binary Tree to Linked List](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)| | |[java](./code/114/114.java)|Medium|
 |0124|[Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/submissions/)| | |[java](./code/124/124.java)|Hard|
 |0128|[Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/)| | |[java](./code/128/128.java)|Hard|
@@ -41,10 +43,16 @@ LeetCode
 |0199|[Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/)| | |[java](./code/199/199.java)|Medium|
 |0200|[Number of Islands](https://leetcode-cn.com/problems/number-of-islands/)| | |[java](./code/200/200.java)|Medium|
 |0202|[Happy Number](https://leetcode-cn.com/problems/happy-number/)| | |[java](./code/202/202.java)|Easy|
+|0206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)| | |[java](./code/206/206.java)|Easy|
+|0207|[Course Schedule](https://leetcode-cn.com/problems/course-schedule/)| | |[java](./code/207/207.java)|Medium|
+|0215|[Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)| | |[java](./code/215/215.java)|Medium|
 |0221|[Maximal Square](https://leetcode-cn.com/problems/maximal-square/)| | |[java](./code/221/221.java)|Medium|
+|0226|[Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/)| | |[java](./code/226/226.java)|Easy|
+|0236|[Lowest Common Ancestor of a Binary Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)| | |[java](./code/236/236.java)|Medium|
 |0279|[Perfect Squares](https://leetcode-cn.com/problems/perfect-squares/)| | |[java](./code/279/279.java)|Medium|
 |0289|[Game Of Life](https://leetcode-cn.com/problems/game-of-life/)| | |[java](./code/289/289.java)|Medium|
 |0297|[Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)| | |[java](./code/297/297.java)|Hard|
+|0309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)| | |[java](./code/309/309.java)|Medium|
 |0312|[Burst Balloons](https://leetcode-cn.com/problems/burst-balloons/)| | |[java](./code/312/312.java)|Hard|
 |0322|[Coin Change](https://leetcode-cn.com/problems/coin-change/)| | |[java](./code/322/322.java)|Medium|
 |0337|[House Robber III](https://leetcode-cn.com/problems/house-robber-iii/)| | |[java](./code/337/337.java)|Medium|
@@ -63,6 +71,7 @@ LeetCode
 |0539|[Minimum Time Difference](https://leetcode-cn.com/problems/minimum-time-difference/)| | |[java](./code/539/539.java)|Medium|
 |0542|[01 Matrix](https://leetcode-cn.com/problems/01-matrix/)| | |[java](./code/542/542.java)|Medium|
 |0560|[Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)| | |[java](./code/560/560.java)|Medium|
+|0572|[Subtree of Another Tree](https://leetcode-cn.com/problems/subtree-of-another-tree/)| | |[java](./code/572/572.java)|Easy|
 |0617|[Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/)| | |[java](./code/617/617.java)|Easy|
 |0647|[Palindromic Substrings](https://leetcode-cn.com/problems/palindromic-substrings/)| | |[java](./code/647/647.java)|Medium|
 |0695|[Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/)| | |[java](./code/695/695.java)|Medium|
@@ -72,6 +81,7 @@ LeetCode
 |0887|[Super Egg Drop](https://leetcode-cn.com/problems/super-egg-drop/)| | |[java](./code/887/887.java)|Hard|
 |0912|[Sort an Array](https://leetcode-cn.com/problems/sort-an-array/)| | |[java](./code/912/912.java)|Medium|
 |0945|[Minimum Increment to Make Array Unique](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)| | |[java](./code/945/945.java)|Medium|
+|0983|[Minimum Cost For Tickets](https://leetcode-cn.com/problems/minimum-cost-for-tickets/)| | |[java](./code/983/983.java)|Medium|
 |0996|[Number Of Squareful Arrays](https://leetcode-cn.com/problems/number-of-squareful-arrays/)| | |[java](./code/996/996.java)|Hard|
 |0999|[Available Captures For Rook](https://leetcode-cn.com/problems/available-captures-for-rook/)| | |[java](./code/999/999.java)|Easy|
 |1095|[Find in Mountain Array](https://leetcode-cn.com/problems/find-in-mountain-array/)| | |[java](./code/1095/1095.java)|Hard|
