@@ -28,6 +28,7 @@ LeetCode
 |0072|[Edit Distance](https://leetcode-cn.com/problems/edit-distance/)| | |[java](./code/72/72.java)|Hard|
 |0075|[Sort Colors](https://leetcode-cn.com/problems/sort-colors/)| | |[java](./code/75/75.java)|Medium|
 |0076|[Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/)| | |[java](./code/76/76.java)|Hard|
+|0078|[Subsets](https://leetcode-cn.com/problems/subsets/)| | |[java](./code/78/78.java)|Medium|
 |0079|[Word Search](https://leetcode-cn.com/problems/word-search/)| | |[java](./code/79/79.java)|Medium|
 |0084|[Largest Rectangle in Histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)| | |[java](./code/84/84.java)|Hard|
 |0094|[Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)| | |[java](./code/94/94.java)|Medium|
