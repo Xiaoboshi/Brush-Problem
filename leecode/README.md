@@ -24,6 +24,7 @@ LeetCode
 |0053|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)| |[python](./code/53/53.py)|[java](./code/53/53.java)|Easy|
 |0055|[Jump Game](https://leetcode-cn.com/problems/jump-game/)| | |[java](./code/55/55.java)|Medium|
 |0056|[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/)| | |[java](./code/56/56.java)|Medium|
+|0069|[Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)| | |[java](./code/69/69.java)|Easy|
 |0072|[Edit Distance](https://leetcode-cn.com/problems/edit-distance/)| | |[java](./code/72/72.java)|Hard|
 |0075|[Sort Colors](https://leetcode-cn.com/problems/sort-colors/)| | |[java](./code/75/75.java)|Medium|
 |0076|[Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/)| | |[java](./code/76/76.java)|Hard|
@@ -38,6 +39,7 @@ LeetCode
 |0124|[Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/submissions/)| | |[java](./code/124/124.java)|Hard|
 |0128|[Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/)| | |[java](./code/128/128.java)|Hard|
 |0139|[Word Break](https://leetcode-cn.com/problems/word-break/)| | |[java](./code/139/139.java)|Medium|
+|0142|[Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)| | |[java](./code/142/142.java)|Medium|
 |0151|[Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)| | |[java](./code/151/151.java)|Medium|
 |0152|[Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)| | |[java](./code/152/152.java)|Medium|
 |0199|[Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/)| | |[java](./code/199/199.java)|Medium|
@@ -45,28 +47,36 @@ LeetCode
 |0202|[Happy Number](https://leetcode-cn.com/problems/happy-number/)| | |[java](./code/202/202.java)|Easy|
 |0206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)| | |[java](./code/206/206.java)|Easy|
 |0207|[Course Schedule](https://leetcode-cn.com/problems/course-schedule/)| | |[java](./code/207/207.java)|Medium|
+|0208|[Implement Trie (Prefix Tree)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)| | |[java](./code/208/208.java)|Medium|
 |0215|[Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)| | |[java](./code/215/215.java)|Medium|
-|0221|[Maximal Square](https://leetcode-cn.com/problems/maximal-square/)| | |[java](./code/221/221.java)|Medium|
+|0221|[Maximal Square](https://leetcode-cn.com/problems/maximal-square/)| |[python](./code/221/221.py)|[java](./code/221/221.java)|Medium|
 |0226|[Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/)| | |[java](./code/226/226.java)|Easy|
 |0236|[Lowest Common Ancestor of a Binary Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)| | |[java](./code/236/236.java)|Medium|
+|0238|[Product of Array Except Self](https://leetcode-cn.com/problems/product-of-array-except-self/)| | |[java](./code/238/238.java)|Medium|
 |0279|[Perfect Squares](https://leetcode-cn.com/problems/perfect-squares/)| | |[java](./code/279/279.java)|Medium|
+|0287|[Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/)| | |[java](./code/287/287.java)|Medium|
 |0289|[Game Of Life](https://leetcode-cn.com/problems/game-of-life/)| | |[java](./code/289/289.java)|Medium|
 |0297|[Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)| | |[java](./code/297/297.java)|Hard|
+|0300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)| | |[java](./code/300/300.java)|Medium|
 |0309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)| | |[java](./code/309/309.java)|Medium|
 |0312|[Burst Balloons](https://leetcode-cn.com/problems/burst-balloons/)| | |[java](./code/312/312.java)|Hard|
 |0322|[Coin Change](https://leetcode-cn.com/problems/coin-change/)| | |[java](./code/322/322.java)|Medium|
 |0337|[House Robber III](https://leetcode-cn.com/problems/house-robber-iii/)| | |[java](./code/337/337.java)|Medium|
+|0338|[Counting Bits](https://leetcode-cn.com/problems/counting-bits/)| | |[java](./code/338/338.java)|Medium|
 |0347|[Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/)| | |[java](./code/347/347.java)|Medium|
 |0355|[Design Twitter](https://leetcode-cn.com/problems/design-twitter/)| | |[java](./code/355/355.java)|Medium|
 |0365|[Water and Jug Problem](https://leetcode-cn.com/problems/water-and-jug-problem/)| | |[java](./code/365/365.java)|Medium|
 |0382|[Linked List Random Node](https://leetcode-cn.com/problems/linked-list-random-node/)| | |[java](./code/382/382.java)|Medium|
+|0394|[Decode String](https://leetcode-cn.com/problems/decode-string/)| | |[java](./code/394/394.java)|Medium|
 |0406|[Queue Reconstruction by Height](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)| | |[java](./code/406/406.java)|Medium|
 |0409|[Longest Palindrome](https://leetcode-cn.com/problems/longest-palindrome/)| | |[java](./code/409/409.java)|Easy|
 |0416|[Partition Equal Subset Sum](https://leetcode-cn.com/problems/partition-equal-subset-sum/)| | |[java](./code/416/416.java)|Medium|
+|0438|[Find All Anagrams in a String](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)| | |[java](./code/438/438.java)|Medium|
 |0455|[Add Two Numbers II](https://leetcode-cn.com/problems/add-two-numbers-ii/)| | |[java](./code/455/455.java)|Medium|
 |0461|[Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/)| | |[java](./code/461/461.java)|Easy|
 |0466|[Count The Repetitions](https://leetcode-cn.com/problems/count-the-repetitions/)| | |[java](./code/466/466.java)|Hard|
 |0475|[Heaters](https://leetcode-cn.com/problems/heaters/)| | |[java](./code/475/475.java)|Easy|
+|0494|[Target Sum](https://leetcode-cn.com/problems/target-sum/)| | |[java](./code/494/494.java)|Medium|
 |0516|[Longest Palindromic Subsequence](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)| | |[java](./code/516/516.java)|Medium|
 |0539|[Minimum Time Difference](https://leetcode-cn.com/problems/minimum-time-difference/)| | |[java](./code/539/539.java)|Medium|
 |0542|[01 Matrix](https://leetcode-cn.com/problems/01-matrix/)| | |[java](./code/542/542.java)|Medium|
