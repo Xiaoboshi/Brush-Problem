@@ -52,7 +52,7 @@ LeetCode
 |0215|[Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)| | |[java](./code/215/215.java)|Medium|
 |0221|[Maximal Square](https://leetcode-cn.com/problems/maximal-square/)| |[python](./code/221/221.py)|[java](./code/221/221.java)|Medium|
 |0226|[Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/)| | |[java](./code/226/226.java)|Easy|
-|0236|[Lowest Common Ancestor of a Binary Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)| | |[java](./code/236/236.java)|Medium|
+|0236|[Lowest Common Ancestor of a Binary Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)| |[python](./code/236/236.py)|[java](./code/236/236.java)|Medium|
 |0238|[Product of Array Except Self](https://leetcode-cn.com/problems/product-of-array-except-self/)| | |[java](./code/238/238.java)|Medium|
 |0279|[Perfect Squares](https://leetcode-cn.com/problems/perfect-squares/)| | |[java](./code/279/279.java)|Medium|
 |0287|[Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/)| | |[java](./code/287/287.java)|Medium|
@@ -128,6 +128,10 @@ LeetCode
 |5400|[Destination City](https://leetcode-cn.com/problems/destination-city/) | | |[java](./code/5400/5400.java)|Easy|
 |5401|[Check If All 1's Are at Least Length K Places Away](https://leetcode-cn.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | | |[java](./code/5401/5401.java)|Medium|
 |5403|[Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode-cn.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/) | | |[java](./code/5403/5403.java)|Hard|
+|5404|[Build an Array With Stack Operations](https://leetcode-cn.com/problems/build-an-array-with-stack-operations/) | | |[java](./code/5404/5404.java)|Easy|
+|5405|[Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | | |[java](./code/5405/5405.java)|Medium|
+|5406|[Minimum Time to Collect All Apples in a Tree](https://leetcode-cn.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) | | |[java](./code/5406/5406.java)|Medium|
+|5407|[Number of Ways of Cutting a Pizza](https://leetcode-cn.com/problems/number-of-ways-of-cutting-a-pizza/) | | |[java](./code/5407/5407.java)|Hard|
 |面试题13|[Ji Qi Ren De Yun Dong Fan Wei Lcof](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | | |[java](./code/面试题13/13.java)|Medium|
 |面试题40|[Zui Xiao De Kge Shu Lcof](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | | |[java](./code/面试题40/40.java)|Easy|
 |面试题51|[Shu Zu Zhong De Ni Xu Dui Lcof](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) | | |[java](./code/面试题51/51.java)|Hard|
