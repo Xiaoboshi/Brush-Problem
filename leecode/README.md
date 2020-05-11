@@ -21,6 +21,7 @@ LeetCode
 |0046|[Permutations](https://leetcode-cn.com/problems/permutations/)| | |[java](./code/46/46.java)|Medium|
 |0048|[Rotate Image](https://leetcode-cn.com/problems/rotate-image/)| | |[java](./code/48/48.java)|Medium|
 |0049|[Group Anagrams](https://leetcode-cn.com/problems/group-anagrams/)| | |[java](./code/49/49.java)|Medium|
+|0050|[Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)| | |[java](./code/50/50.java)|Medium|
 |0053|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)| |[python](./code/53/53.py)|[java](./code/53/53.java)|Easy|
 |0055|[Jump Game](https://leetcode-cn.com/problems/jump-game/)| | |[java](./code/55/55.java)|Medium|
 |0056|[Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/)| | |[java](./code/56/56.java)|Medium|
@@ -39,10 +40,12 @@ LeetCode
 |0114|[Flatten Binary Tree to Linked List](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)| | |[java](./code/114/114.java)|Medium|
 |0124|[Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/submissions/)| | |[java](./code/124/124.java)|Hard|
 |0128|[Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/)| | |[java](./code/128/128.java)|Hard|
+|0136|[Single Number](https://leetcode-cn.com/problems/single-number/)| | |[java](./code/136/136.java)|Easy|
 |0139|[Word Break](https://leetcode-cn.com/problems/word-break/)| | |[java](./code/139/139.java)|Medium|
 |0142|[Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)| | |[java](./code/142/142.java)|Medium|
 |0151|[Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)| | |[java](./code/151/151.java)|Medium|
 |0152|[Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)| | |[java](./code/152/152.java)|Medium|
+|0169|[Majority Element](https://leetcode-cn.com/problems/majority-element/)| | |[java](./code/169/169.java)|Easy|
 |0199|[Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/)| | |[java](./code/199/199.java)|Medium|
 |0200|[Number of Islands](https://leetcode-cn.com/problems/number-of-islands/)| | |[java](./code/200/200.java)|Medium|
 |0202|[Happy Number](https://leetcode-cn.com/problems/happy-number/)| | |[java](./code/202/202.java)|Easy|
@@ -79,6 +82,7 @@ LeetCode
 |0475|[Heaters](https://leetcode-cn.com/problems/heaters/)| | |[java](./code/475/475.java)|Easy|
 |0494|[Target Sum](https://leetcode-cn.com/problems/target-sum/)| | |[java](./code/494/494.java)|Medium|
 |0516|[Longest Palindromic Subsequence](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)| | |[java](./code/516/516.java)|Medium|
+|0538|[Convert BST to Greater Tree](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)| | |[java](./code/538/538.java)|Easy|
 |0539|[Minimum Time Difference](https://leetcode-cn.com/problems/minimum-time-difference/)| | |[java](./code/539/539.java)|Medium|
 |0542|[01 Matrix](https://leetcode-cn.com/problems/01-matrix/)| | |[java](./code/542/542.java)|Medium|
 |0560|[Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)| | |[java](./code/560/560.java)|Medium|
@@ -114,7 +118,7 @@ LeetCode
 |1409|[Queries on a Permutation With Key](https://leetcode-cn.com/problems/queries-on-a-permutation-with-key/)| | |[java](./code/1409/1409.java)|Medium|
 |1410|[HTML Entity Parser](https://leetcode-cn.com/problems/html-entity-parser/)| | |[java](./code/1410/1410.java)|Medium|
 |1411|[Number of Ways to Paint N × 3 Grid](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-x-3-grid/)| | |[java](./code/1411/1411.java)|Hard|
-|1411|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)| | |[java](./code/1438/1438.java)|Medium|
+|1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)| | |[java](./code/1438/1438.java)|Medium|
 |5172|[Largest Multiple of Three](https://leetcode-cn.com/contest/weekly-contest-177/problems/largest-multiple-of-three/) | | |[java](./code/5172/5172.java)|Hard|
 |5178|[Four Divisors](https://leetcode-cn.com/problems/four-divisors/) | | |[java](./code/5178/5178_2.java)|Medium|
 |5180|[Constrained Subset Sum](https://leetcode-cn.com/problems/constrained-subset-sum/) | | |[java](./code/5180/5180.java)|Hard|
