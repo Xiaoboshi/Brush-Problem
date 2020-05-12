@@ -35,6 +35,7 @@ LeetCode
 |0094|[Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)| | |[java](./code/94/94.java)|Medium|
 |0096|[Unique Binary Search Trees](https://leetcode-cn.com/problems/unique-binary-search-trees/)| | |[java](./code/96/96.java)|Medium|
 |0098|[Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)| |[python](./code/98/98.py)|[java](./code/98/98.java)|Medium|
+|0101|[Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/)| ||[java](./code/101/101.java)|Easy|
 |0102|[Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)| ||[java](./code/102/102.java)|Medium|
 |0104|[Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)| ||[java](./code/104/104.java)|Easy|
 |0114|[Flatten Binary Tree to Linked List](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)| | |[java](./code/114/114.java)|Medium|
@@ -45,6 +46,7 @@ LeetCode
 |0142|[Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)| | |[java](./code/142/142.java)|Medium|
 |0151|[Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)| | |[java](./code/151/151.java)|Medium|
 |0152|[Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)| | |[java](./code/152/152.java)|Medium|
+|0155|[Min Stack](https://leetcode-cn.com/problems/min-stack/)| | |[java](./code/155/155.java)|Easy|
 |0169|[Majority Element](https://leetcode-cn.com/problems/majority-element/)| | |[java](./code/169/169.java)|Easy|
 |0199|[Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/)| | |[java](./code/199/199.java)|Medium|
 |0200|[Number of Islands](https://leetcode-cn.com/problems/number-of-islands/)| | |[java](./code/200/200.java)|Medium|
@@ -87,6 +89,7 @@ LeetCode
 |0542|[01 Matrix](https://leetcode-cn.com/problems/01-matrix/)| | |[java](./code/542/542.java)|Medium|
 |0560|[Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)| | |[java](./code/560/560.java)|Medium|
 |0572|[Subtree of Another Tree](https://leetcode-cn.com/problems/subtree-of-another-tree/)| | |[java](./code/572/572.java)|Easy|
+|0581|[Shortest Unsorted Continuous Subarray](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/)| | |[java](./code/581/581.java)|Easy|
 |0617|[Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/)| | |[java](./code/617/617.java)|Easy|
 |0647|[Palindromic Substrings](https://leetcode-cn.com/problems/palindromic-substrings/)| | |[java](./code/647/647.java)|Medium|
 |0695|[Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/)| | |[java](./code/695/695.java)|Medium|
