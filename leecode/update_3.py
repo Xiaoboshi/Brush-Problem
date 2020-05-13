@@ -1,6 +1,7 @@
 # 用于更新github
 
 import os
+import re
 import sys
 import time
 from lxml import etree
@@ -120,44 +121,88 @@ class myForm(QtWidgets.QWidget, Ui_Form):
         self.setupUi(self)
         self.pushButton.clicked.connect(self.submit)
         self.pushButton_2.clicked.connect(self.cleartext)
+        self.pushButton_3.clicked.connect(self.modify)
         self.pushButton_4.clicked.connect(self.submitdis)
         self.pushButton_5.clicked.connect(self.submitjava)
         self.pushButton_6.clicked.connect(self.submitpy)
 
-    # # 前台开启浏览器模式
-    # def openChrome(self):
-    #     # 加启动配置
-    #     option = webdriver.ChromeOptions()
-    #     option.add_argument('disable-infobars')
-    #     # 打开chrome浏览器
-    #     driver = webdriver.Chrome(chrome_options=option)
-    #     return driver
+    # 前台开启浏览器模式
+    def openChrome(self):
+        # 加启动配置
+        option = webdriver.ChromeOptions()
+        option.add_argument('headless')
+        # 打开chrome浏览器
+        driver = webdriver.Chrome(chrome_options=option)
+        return driver
 
     
-    # # 授权操作
-    # def operationAuth(self, driver, num):
-    #     url = "https://leetcode-cn.com/problemset/all/?search=" + str(num)
-    #     driver.get(url)
-    #     # 找到输入框并输入查询内容
-    #     # 获取checkbox并勾选
-    #     data = driver.page_source
-    #     ps = etree.HTML(data)
-    #     table = ps.xpath("//div[@class='table-responsive question-list-table']//tbody[@class='reactable-data']/tr/td/text()")
-    #     count = 0
-    #     for i in table:
-    #         if i == str(num):
-    #             break
-    #         count += 1
+    # 授权操作
+    def operationAuth(self, driver, num):
+        url = "https://leetcode-cn.com/problemset/all/?search=" + str(num)
+        driver.get(url)
+        # 找到输入框并输入查询内容
+        # 获取checkbox并勾选
+        data = driver.page_source
+        ps = etree.HTML(data)
+        table = ps.xpath("//div[@class='table-responsive question-list-table']//tbody[@class='reactable-data']/tr/td/text()")
+        count = 0
+        for i in table:
+            if i == str(num):
+                break
+            count += 1
 
-    #     ele = ps.xpath("//div[@class='table-responsive question-list-table']//tbody[@class='reactable-data']/tr[" + str(count)+ "]//div[@class='question-title']/a/@href")
-    #     if len(ele) == 0:
-    #         return ""
+        ele = ps.xpath("//div[@class='table-responsive question-list-table']//tbody[@class='reactable-data']/tr[" + str(count)+ "]//div[@class='question-title']/a/@href")
+        ele2 = ps.xpath("//div[@class='table-responsive question-list-table']//tbody[@class='reactable-data']/tr[" + str(count)+ "]//span[@class='level-hard']/text()")
+        ele3 = ps.xpath("//div[@class='table-responsive question-list-table']//tbody[@class='reactable-data']/tr[" + str(count)+ "]//span[@class='level-medium']/text()")
+        ele4 = ps.xpath("//div[@class='table-responsive question-list-table']//tbody[@class='reactable-data']/tr[" + str(count)+ "]//span[@class='level-easy']/text()")
 
-    #     nexturl = "https://leetcode-cn.com/" + ele[0]
-    #     print(nexturl)
-    #     return nexturl
+        level = ""
+        if len(ele2) != 0:
+            level = "Hard"
+        elif len(ele3) != 0:
+            level = "Medium"
+        else:
+            level = "Easy"
 
-    #定义槽函数,用于提交
+        if len(ele) == 0:
+            return "", "", ""
+
+        nexturl = "https://leetcode-cn.com" + ele[0]
+        print(nexturl)
+
+        title = ele[0][10:]
+        k = re.split('[-]', title)
+        def normallize(name):
+	        return name.capitalize()
+        L2 = list(map(normallize, k))
+        title = ''
+        for i in L2:
+            title = title + i + ' '
+
+        return nexturl, title[:-1], level
+
+    # 定义槽函数，用于修改README.md文件
+    def modify(self):
+        driver = self.openChrome()
+        num = self.plainTextEdit.toPlainText()
+        url, title, level = self.operationAuth(driver, num)
+        driver.close()
+        res = ''
+        if len(num) != 0:
+            num_2 = num.zfill(4)
+            res = res + '|' + str(num_2) + '|' + '[' + title + ']' + '(' + url + ')' + '|'
+            res = res + ' |' + ' |' + '[java]' + '(./code/' + str(num) + '/' + str(num) + '.java)'
+            res = res + '|' + level + '|'
+            print(res)
+            self.textEdit.setText(res)
+
+            QMessageBox.question(self, "提示信息", "成功显示", QMessageBox.Yes | QMessageBox.No)
+    
+        else:
+            QMessageBox.question(self, "提示信息", "需要输入内容", QMessageBox.Yes | QMessageBox.No)
+    
+
+    # 定义槽函数,用于提交
     def submit(self):
         discribe = self.textEdit.toPlainText()
         code = self.textEdit_2.toPlainText()
