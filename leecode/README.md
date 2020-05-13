@@ -36,13 +36,15 @@ LeetCode
 |0096|[Unique Binary Search Trees](https://leetcode-cn.com/problems/unique-binary-search-trees/)| | |[java](./code/96/96.java)|Medium|
 |0098|[Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)| |[python](./code/98/98.py)|[java](./code/98/98.java)|Medium|
 |0101|[Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/)| ||[java](./code/101/101.java)|Easy|
-|0102|[Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)| ||[java](./code/102/102.java)|Medium|
+|0102|[Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)| |[python](./code/102/102.py)|[java](./code/102/102.java)|Medium|
 |0104|[Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)| ||[java](./code/104/104.java)|Easy|
 |0114|[Flatten Binary Tree to Linked List](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)| | |[java](./code/114/114.java)|Medium|
+|0121|[Best Time To Buy And Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)| | |[java](./code/121/121.java)|Easy|
 |0124|[Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/submissions/)| | |[java](./code/124/124.java)|Hard|
 |0128|[Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/)| | |[java](./code/128/128.java)|Hard|
 |0136|[Single Number](https://leetcode-cn.com/problems/single-number/)| | |[java](./code/136/136.java)|Easy|
 |0139|[Word Break](https://leetcode-cn.com/problems/word-break/)| | |[java](./code/139/139.java)|Medium|
+|0141|[Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle)| | |[java](./code/141/141.java)|Easy|
 |0142|[Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)| | |[java](./code/142/142.java)|Medium|
 |0151|[Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)| | |[java](./code/151/151.java)|Medium|
 |0152|[Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)| | |[java](./code/152/152.java)|Medium|
@@ -60,6 +62,7 @@ LeetCode
 |0236|[Lowest Common Ancestor of a Binary Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)| |[python](./code/236/236.py)|[java](./code/236/236.java)|Medium|
 |0238|[Product of Array Except Self](https://leetcode-cn.com/problems/product-of-array-except-self/)| | |[java](./code/238/238.java)|Medium|
 |0279|[Perfect Squares](https://leetcode-cn.com/problems/perfect-squares/)| | |[java](./code/279/279.java)|Medium|
+|0283|[Move Zeroes](https://leetcode-cn.com/problems/move-zeroes)| | |[java](./code/283/283.java)|Easy|
 |0287|[Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/)| | |[java](./code/287/287.java)|Medium|
 |0289|[Game Of Life](https://leetcode-cn.com/problems/game-of-life/)| | |[java](./code/289/289.java)|Medium|
 |0297|[Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)| | |[java](./code/297/297.java)|Hard|
