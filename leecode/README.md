@@ -12,7 +12,9 @@ LeetCode
 |0021|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)| |[python](./code/21/21.py)|[java](./code/21/21.java) |Easy|
 |0022|[Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/)| | |[java](./code/22/22.java)|Medium|
 |0023|[Merge K Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/)| | |[java](./code/23/23.java)|Hard|
+|0025|[Reverse Nodes in k-Group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)| | |[java](./code/25/25.java)|Hard|
 |0031|[Next Permutation](https://leetcode-cn.com/problems/next-permutation/)| | |[java](./code/31/31.java)|Medium|
+|0032|[Longest Valid Parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses)| | |[java](./code/32/32.java)|Hard|
 |0033|[Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)| | |[java](./code/33/33.java)|Medium|
 |0034|[Find First and Last Position of Element in Sorted Array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| | |[java](./code/34/34.java)|Medium|
 |0039|[Combination Sum](https://leetcode-cn.com/problems/combination-sum/)| | |[java](./code/39/39.java)|Medium|
@@ -49,7 +51,9 @@ LeetCode
 |0151|[Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)| | |[java](./code/151/151.java)|Medium|
 |0152|[Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)| | |[java](./code/152/152.java)|Medium|
 |0155|[Min Stack](https://leetcode-cn.com/problems/min-stack/)| | |[java](./code/155/155.java)|Easy|
+|0160|[Intersection Of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists)| | |[java](./code/160/160.java)|Easy|
 |0169|[Majority Element](https://leetcode-cn.com/problems/majority-element/)| | |[java](./code/169/169.java)|Easy|
+|0198|[House Robber](https://leetcode-cn.com/problems/house-robber)| | |[java](./code/198/198.java)|Easy|
 |0199|[Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/)| | |[java](./code/199/199.java)|Medium|
 |0200|[Number of Islands](https://leetcode-cn.com/problems/number-of-islands/)| | |[java](./code/200/200.java)|Medium|
 |0202|[Happy Number](https://leetcode-cn.com/problems/happy-number/)| | |[java](./code/202/202.java)|Easy|
@@ -59,8 +63,10 @@ LeetCode
 |0215|[Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)| | |[java](./code/215/215.java)|Medium|
 |0221|[Maximal Square](https://leetcode-cn.com/problems/maximal-square/)| |[python](./code/221/221.py)|[java](./code/221/221.java)|Medium|
 |0226|[Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/)| | |[java](./code/226/226.java)|Easy|
+|0234|[Palindrome Linked List](https://leetcode-cn.com/problems/palindrome-linked-list)| | |[java](./code/234/234.java)|Easy|
 |0236|[Lowest Common Ancestor of a Binary Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)| |[python](./code/236/236.py)|[java](./code/236/236.java)|Medium|
 |0238|[Product of Array Except Self](https://leetcode-cn.com/problems/product-of-array-except-self/)| | |[java](./code/238/238.java)|Medium|
+|0239|[Sliding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum)| | |[java](./code/239/239.java)|Hard|
 |0279|[Perfect Squares](https://leetcode-cn.com/problems/perfect-squares/)| | |[java](./code/279/279.java)|Medium|
 |0283|[Move Zeroes](https://leetcode-cn.com/problems/move-zeroes)| | |[java](./code/283/283.java)|Easy|
 |0287|[Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/)| | |[java](./code/287/287.java)|Medium|
@@ -80,7 +86,9 @@ LeetCode
 |0406|[Queue Reconstruction by Height](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)| | |[java](./code/406/406.java)|Medium|
 |0409|[Longest Palindrome](https://leetcode-cn.com/problems/longest-palindrome/)| | |[java](./code/409/409.java)|Easy|
 |0416|[Partition Equal Subset Sum](https://leetcode-cn.com/problems/partition-equal-subset-sum/)| | |[java](./code/416/416.java)|Medium|
+|0437|[Path Sum Iii](https://leetcode-cn.com/problems/path-sum-iii)| | |[java](./code/437/437.java)|Easy|
 |0438|[Find All Anagrams in a String](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)| | |[java](./code/438/438.java)|Medium|
+|0448|[Find All Numbers Disappeared In An Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array)| | |[java](./code/448/448.java)|Easy|
 |0455|[Add Two Numbers II](https://leetcode-cn.com/problems/add-two-numbers-ii/)| | |[java](./code/455/455.java)|Medium|
 |0461|[Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/)| | |[java](./code/461/461.java)|Easy|
 |0466|[Count The Repetitions](https://leetcode-cn.com/problems/count-the-repetitions/)| | |[java](./code/466/466.java)|Hard|
@@ -90,7 +98,8 @@ LeetCode
 |0538|[Convert BST to Greater Tree](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)| | |[java](./code/538/538.java)|Easy|
 |0539|[Minimum Time Difference](https://leetcode-cn.com/problems/minimum-time-difference/)| | |[java](./code/539/539.java)|Medium|
 |0542|[01 Matrix](https://leetcode-cn.com/problems/01-matrix/)| | |[java](./code/542/542.java)|Medium|
-|0560|[Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)| | |[java](./code/560/560.java)|Medium|
+|0543|[Diameter Of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree)| | |[java](./code/543/543.java)|Easy|
+|0560|[Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)| |[python](./code/560/560.py)|[java](./code/560/560.java)|Medium|
 |0572|[Subtree of Another Tree](https://leetcode-cn.com/problems/subtree-of-another-tree/)| | |[java](./code/572/572.java)|Easy|
 |0581|[Shortest Unsorted Continuous Subarray](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/)| | |[java](./code/581/581.java)|Easy|
 |0617|[Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/)| | |[java](./code/617/617.java)|Easy|
