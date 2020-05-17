@@ -9,6 +9,7 @@ LeetCode
 |0003|[Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)| |[python](./code/3/3.py)|[java](./code/3/3.java)|Medium|
 |0008|[String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)| | |[java](./code/8/8.java)|Medium|
 |0017|[Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)| | |[java](./code/17/17.java)|Medium|
+|0020|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses)| | |[java](./code/20/20.java)|Easy|
 |0021|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)| |[python](./code/21/21.py)|[java](./code/21/21.java) |Easy|
 |0022|[Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/)| | |[java](./code/22/22.java)|Medium|
 |0023|[Merge K Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/)| | |[java](./code/23/23.java)|Hard|
@@ -40,6 +41,7 @@ LeetCode
 |0101|[Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/)| ||[java](./code/101/101.java)|Easy|
 |0102|[Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)| |[python](./code/102/102.py)|[java](./code/102/102.java)|Medium|
 |0104|[Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)| ||[java](./code/104/104.java)|Easy|
+|0105|[Construct Binary Tree From Preorder And Inorder Traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)| | |[java](./code/105/105.java)|Medium|
 |0114|[Flatten Binary Tree to Linked List](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)| | |[java](./code/114/114.java)|Medium|
 |0121|[Best Time To Buy And Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)| | |[java](./code/121/121.java)|Easy|
 |0124|[Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/submissions/)| | |[java](./code/124/124.java)|Hard|
@@ -60,6 +62,7 @@ LeetCode
 |0206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)| | |[java](./code/206/206.java)|Easy|
 |0207|[Course Schedule](https://leetcode-cn.com/problems/course-schedule/)| | |[java](./code/207/207.java)|Medium|
 |0208|[Implement Trie (Prefix Tree)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)| | |[java](./code/208/208.java)|Medium|
+|0210|[Course Schedule II](https://leetcode-cn.com/problems/course-schedule-ii/)| | |[java](./code/210/210.java)|Medium|
 |0215|[Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)| | |[java](./code/215/215.java)|Medium|
 |0221|[Maximal Square](https://leetcode-cn.com/problems/maximal-square/)| |[python](./code/221/221.py)|[java](./code/221/221.java)|Medium|
 |0226|[Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/)| | |[java](./code/226/226.java)|Easy|
@@ -151,6 +154,9 @@ LeetCode
 |5405|[Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | | |[java](./code/5405/5405.java)|Medium|
 |5406|[Minimum Time to Collect All Apples in a Tree](https://leetcode-cn.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) | | |[java](./code/5406/5406.java)|Medium|
 |5407|[Number of Ways of Cutting a Pizza](https://leetcode-cn.com/problems/number-of-ways-of-cutting-a-pizza/) | | |[java](./code/5407/5407.java)|Hard|
+|5412|[Number Of Students Doing Homework At A Given Time](https://leetcode-cn.com/problems/number-of-students-doing-homework-at-a-given-time)| | |[java](./code/5412/5412.java)|Easy|
+|5413|[Rearrange Words In A Sentence](https://leetcode-cn.com/problems/rearrange-words-in-a-sentence)| | |[java](./code/5413/5413.java)|Medium|
+|5414|[People Whose List Of Favorite Companies Is Not A Subset Of Another List](https://leetcode-cn.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list)| | |[java](./code/5414/5414.java)|Medium|
 |面试题13|[Ji Qi Ren De Yun Dong Fan Wei Lcof](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | | |[java](./code/面试题13/13.java)|Medium|
 |面试题40|[Zui Xiao De Kge Shu Lcof](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | | |[java](./code/面试题40/40.java)|Easy|
 |面试题51|[Shu Zu Zhong De Ni Xu Dui Lcof](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) | | |[java](./code/面试题51/51.java)|Hard|
