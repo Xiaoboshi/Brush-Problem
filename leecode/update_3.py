@@ -141,7 +141,6 @@ class myForm(QtWidgets.QWidget, Ui_Form):
         url = "https://leetcode-cn.com/problemset/all/?search=" + str(num)
         driver.get(url)
         # 找到输入框并输入查询内容
-        # 获取checkbox并勾选
         data = driver.page_source
         ps = etree.HTML(data)
         table = ps.xpath("//div[@class='table-responsive question-list-table']//tbody[@class='reactable-data']/tr/td/text()")
