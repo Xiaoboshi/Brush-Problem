@@ -7,6 +7,7 @@ LeetCode
 |0001|[Two Sum](https://leetcode-cn.com/problems/two-sum/)| |[python](./code/1/1.py)| |Easy|
 |0002|[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/)| | |[java](./code/2/2.java)|Medium|
 |0003|[Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)| |[python](./code/3/3.py)|[java](./code/3/3.java)|Medium|
+|0004|[Median Of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays)| | |[java](./code/4/4.java)|Hard|
 |0008|[String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)| | |[java](./code/8/8.java)|Medium|
 |0017|[Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)| | |[java](./code/17/17.java)|Medium|
 |0020|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses)| | |[java](./code/20/20.java)|Easy|
@@ -35,6 +36,7 @@ LeetCode
 |0078|[Subsets](https://leetcode-cn.com/problems/subsets/)| | |[java](./code/78/78.java)|Medium|
 |0079|[Word Search](https://leetcode-cn.com/problems/word-search/)| | |[java](./code/79/79.java)|Medium|
 |0084|[Largest Rectangle in Histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)| | |[java](./code/84/84.java)|Hard|
+|0085|[Maximal Rectangle](https://leetcode-cn.com/problems/maximal-rectangle)| | |[java](./code/85/85.java)|Hard|
 |0094|[Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)| | |[java](./code/94/94.java)|Medium|
 |0096|[Unique Binary Search Trees](https://leetcode-cn.com/problems/unique-binary-search-trees/)| | |[java](./code/96/96.java)|Medium|
 |0098|[Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/)| |[python](./code/98/98.py)|[java](./code/98/98.java)|Medium|
@@ -50,8 +52,9 @@ LeetCode
 |0139|[Word Break](https://leetcode-cn.com/problems/word-break/)| | |[java](./code/139/139.java)|Medium|
 |0141|[Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle)| | |[java](./code/141/141.java)|Easy|
 |0142|[Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)| | |[java](./code/142/142.java)|Medium|
+|0148|[Sort List](https://leetcode-cn.com/problems/sort-list)| | |[java](./code/148/148.java)|Medium|
 |0151|[Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)| | |[java](./code/151/151.java)|Medium|
-|0152|[Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)| | |[java](./code/152/152.java)|Medium|
+|0152|[Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)| |[python(./code/152/152.py)]|[java](./code/152/152.java)|Medium|
 |0155|[Min Stack](https://leetcode-cn.com/problems/min-stack/)| | |[java](./code/155/155.java)|Easy|
 |0160|[Intersection Of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists)| | |[java](./code/160/160.java)|Easy|
 |0169|[Majority Element](https://leetcode-cn.com/problems/majority-element/)| | |[java](./code/169/169.java)|Easy|
@@ -76,6 +79,7 @@ LeetCode
 |0289|[Game Of Life](https://leetcode-cn.com/problems/game-of-life/)| | |[java](./code/289/289.java)|Medium|
 |0297|[Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)| | |[java](./code/297/297.java)|Hard|
 |0300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)| | |[java](./code/300/300.java)|Medium|
+|0301|[Remove Invalid Parentheses](https://leetcode-cn.com/problems/remove-invalid-parentheses)| | |[java](./code/301/301.java)|Hard|
 |0309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)| | |[java](./code/309/309.java)|Medium|
 |0312|[Burst Balloons](https://leetcode-cn.com/problems/burst-balloons/)| | |[java](./code/312/312.java)|Hard|
 |0322|[Coin Change](https://leetcode-cn.com/problems/coin-change/)| | |[java](./code/322/322.java)|Medium|
@@ -106,7 +110,9 @@ LeetCode
 |0572|[Subtree of Another Tree](https://leetcode-cn.com/problems/subtree-of-another-tree/)| | |[java](./code/572/572.java)|Easy|
 |0581|[Shortest Unsorted Continuous Subarray](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/)| | |[java](./code/581/581.java)|Easy|
 |0617|[Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/)| | |[java](./code/617/617.java)|Easy|
+|0621|[Task Scheduler](https://leetcode-cn.com/problems/task-scheduler)| | |[java](./code/621/621.java)|Medium|
 |0647|[Palindromic Substrings](https://leetcode-cn.com/problems/palindromic-substrings/)| | |[java](./code/647/647.java)|Medium|
+|0680|[Valid Palindrome II](https://leetcode-cn.com/problems/valid-palindrome-ii/)| | |[java](./code/680/680.java)|Easy|
 |0695|[Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/)| | |[java](./code/695/695.java)|Medium|
 |0739|[Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)| | |[java](./code/739/739.java)|Medium|
 |0836|[Rectangle Overlap](https://leetcode-cn.com/problems/rectangle-overlap/)| | |[java](./code/836/836.java)|Easy|
