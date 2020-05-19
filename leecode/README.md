@@ -54,7 +54,7 @@ LeetCode
 |0142|[Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)| | |[java](./code/142/142.java)|Medium|
 |0148|[Sort List](https://leetcode-cn.com/problems/sort-list)| | |[java](./code/148/148.java)|Medium|
 |0151|[Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/)| | |[java](./code/151/151.java)|Medium|
-|0152|[Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)| |[python(./code/152/152.py)]|[java](./code/152/152.java)|Medium|
+|0152|[Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/)| |[python](./code/152/152.py)|[java](./code/152/152.java)|Medium|
 |0155|[Min Stack](https://leetcode-cn.com/problems/min-stack/)| | |[java](./code/155/155.java)|Easy|
 |0160|[Intersection Of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists)| | |[java](./code/160/160.java)|Easy|
 |0169|[Majority Element](https://leetcode-cn.com/problems/majority-element/)| | |[java](./code/169/169.java)|Easy|
