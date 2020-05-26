@@ -1,4 +1,4 @@
-LeetCode
+	LeetCode
 ========
  
 
@@ -7,7 +7,7 @@ LeetCode
 |0001|[Two Sum](https://leetcode-cn.com/problems/two-sum/)| |[python](./code/1/1.py)| |Easy|
 |0002|[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/)| | |[java](./code/2/2.java)|Medium|
 |0003|[Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)| |[python](./code/3/3.py)|[java](./code/3/3.java)|Medium|
-|0004|[Median Of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays)| | |[java](./code/4/4.java)|Hard|
+|0004|[Median Of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays)| |[python](./code/4/4.py)|[java](./code/4/4.java)|Hard|
 |0005|[Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/)| |[python](./code/5/5.py)|[java](./code/5/5.java)||
 |0008|[String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)| | |[java](./code/8/8.java)|Medium|
 |0017|[Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)| | |[java](./code/17/17.java)|Medium|
@@ -33,7 +33,7 @@ LeetCode
 |0069|[Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)| | |[java](./code/69/69.java)|Easy|
 |0072|[Edit Distance](https://leetcode-cn.com/problems/edit-distance/)| | |[java](./code/72/72.java)|Hard|
 |0075|[Sort Colors](https://leetcode-cn.com/problems/sort-colors/)| | |[java](./code/75/75.java)|Medium|
-|0076|[Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/)| | |[java](./code/76/76.java)|Hard|
+|0076|[Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/)| |[pytohn](./code/76/76.py)|[java](./code/76/76.java)|Hard|
 |0078|[Subsets](https://leetcode-cn.com/problems/subsets/)| | |[java](./code/78/78.java)|Medium|
 |0079|[Word Search](https://leetcode-cn.com/problems/word-search/)| | |[java](./code/79/79.java)|Medium|
 |0084|[Largest Rectangle in Histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)| | |[java](./code/84/84.java)|Hard|
@@ -78,7 +78,7 @@ LeetCode
 |0239|[Sliding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum)| | |[java](./code/239/239.java)|Hard|
 |0279|[Perfect Squares](https://leetcode-cn.com/problems/perfect-squares/)| | |[java](./code/279/279.java)|Medium|
 |0283|[Move Zeroes](https://leetcode-cn.com/problems/move-zeroes)| | |[java](./code/283/283.java)|Easy|
-|0287|[Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/)| | |[java](./code/287/287.java)|Medium|
+|0287|[Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/)| |[python](./code/287/287.py)|[java](./code/287/287.java)|Medium|
 |0289|[Game Of Life](https://leetcode-cn.com/problems/game-of-life/)| | |[java](./code/289/289.java)|Medium|
 |0297|[Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)| | |[java](./code/297/297.java)|Hard|
 |0300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)| | |[java](./code/300/300.java)|Medium|
@@ -110,6 +110,7 @@ LeetCode
 |0539|[Minimum Time Difference](https://leetcode-cn.com/problems/minimum-time-difference/)| | |[java](./code/539/539.java)|Medium|
 |0542|[01 Matrix](https://leetcode-cn.com/problems/01-matrix/)| | |[java](./code/542/542.java)|Medium|
 |0543|[Diameter Of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree)| | |[java](./code/543/543.java)|Easy|
+|0552|[Student Attendance Record Ii](https://leetcode-cn.com/problems/student-attendance-record-ii)| | |[java](./code/552/552.java)|Hard|
 |0560|[Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/)| |[python](./code/560/560.py)|[java](./code/560/560.java)|Medium|
 |0572|[Subtree of Another Tree](https://leetcode-cn.com/problems/subtree-of-another-tree/)| | |[java](./code/572/572.java)|Easy|
 |0581|[Shortest Unsorted Continuous Subarray](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/)| | |[java](./code/581/581.java)|Easy|
@@ -149,7 +150,12 @@ LeetCode
 |1409|[Queries on a Permutation With Key](https://leetcode-cn.com/problems/queries-on-a-permutation-with-key/)| | |[java](./code/1409/1409.java)|Medium|
 |1410|[HTML Entity Parser](https://leetcode-cn.com/problems/html-entity-parser/)| | |[java](./code/1410/1410.java)|Medium|
 |1411|[Number of Ways to Paint N × 3 Grid](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-x-3-grid/)| | |[java](./code/1411/1411.java)|Hard|
+|1418|[Display Table Of Food Orders In A Restaurant](https://leetcode-cn.com/problems/display-table-of-food-orders-in-a-restaurant)| | |[java](./code/1418/1418.java)|Medium|
 |1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)| | |[java](./code/1438/1438.java)|Medium|
+|1455|[Check If A Word Occurs As A Prefix Of Any Word In A Sentence](https://leetcode-cn.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence)| | |[java](./code/1455/1455.java)|Easy|
+|1456|[Maximum Number Of Vowels In A Substring Of Given Length](https://leetcode-cn.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length)| | |[java](./code/1456/1456.java)|Medium|
+|1457|[Pseudo Palindromic Paths In A Binary Tree](https://leetcode-cn.com/problems/pseudo-palindromic-paths-in-a-binary-tree)| | |[java](./code/1457/1457.java)|Medium|
+|1458|[Max Dot Product Of Two Subsequences](https://leetcode-cn.com/problems/max-dot-product-of-two-subsequences)| | |[java](./code/1458/1458.java)|Hard|
 |5172|[Largest Multiple of Three](https://leetcode-cn.com/contest/weekly-contest-177/problems/largest-multiple-of-three/) | | |[java](./code/5172/5172.java)|Hard|
 |5178|[Four Divisors](https://leetcode-cn.com/problems/four-divisors/) | | |[java](./code/5178/5178_2.java)|Medium|
 |5180|[Constrained Subset Sum](https://leetcode-cn.com/problems/constrained-subset-sum/) | | |[java](./code/5180/5180.java)|Hard|
