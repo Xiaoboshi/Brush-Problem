@@ -92,7 +92,7 @@
 |0355|[Design Twitter](https://leetcode-cn.com/problems/design-twitter/)| | |[java](./code/355/355.java)|Medium|
 |0365|[Water and Jug Problem](https://leetcode-cn.com/problems/water-and-jug-problem/)| | |[java](./code/365/365.java)|Medium|
 |0382|[Linked List Random Node](https://leetcode-cn.com/problems/linked-list-random-node/)| | |[java](./code/382/382.java)|Medium|
-|0394|[Decode String](https://leetcode-cn.com/problems/decode-string/)| | |[java](./code/394/394.java)|Medium|
+|0394|[Decode String](https://leetcode-cn.com/problems/decode-string/)| |[python](./code/394/394.py)|[java](./code/394/394.java)|Medium|
 |0399|[Evaluate Division](https://leetcode-cn.com/problems/evaluate-division)| | |[java](./code/399/399.java)|Medium|
 |0406|[Queue Reconstruction by Height](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)| | |[java](./code/406/406.java)|Medium|
 |0409|[Longest Palindrome](https://leetcode-cn.com/problems/longest-palindrome/)| | |[java](./code/409/409.java)|Easy|
