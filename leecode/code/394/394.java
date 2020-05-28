@@ -7,7 +7,8 @@ class Solution {
         }
         String res = "";
         int index = 0;
-        while (index < s.length() && s.charAt(index) >= 'a' && s.charAt(index) <= 'z') {
+        while (index < s.length()) {
+			if ((s.charAt(index) < '0' || s.charAt(index) > '9') && s.charAt(index) != '[' && s.charAt(index) != ']')
             res = res + s.charAt(index);
             index++;
         }
