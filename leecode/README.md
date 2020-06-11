@@ -7,9 +7,12 @@
 |0001|[Two Sum](https://leetcode-cn.com/problems/two-sum/)| |[python](./code/1/1.py)| |Easy|
 |0002|[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/)| | |[java](./code/2/2.java)|Medium|
 |0003|[Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)| |[python](./code/3/3.py)|[java](./code/3/3.java)|Medium|
-|0004|[Median Of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays)| |[python](./code/4/4.py)|[java](./code/4/4.java)|Hard|
+|0004|[Median Of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arr)| |[python](./code/4/4.py)|[java](./code/4/4.java)|Hard|
 |0005|[Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/)| |[python](./code/5/5.py)|[java](./code/5/5.java)||
 |0008|[String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)| | |[java](./code/8/8.java)|Medium|
+|0009|[Palindrome Number](https://leetcode-cn.com/problems/palindrome-number)| | |[java](./code/9/9.java)|Easy|
+|0012|[Integer To Roman](https://leetcode-cn.com/problems/integer-to-roman)| | |[java](./code/12/12.java)|Medium|
+|0013|[Roman To Integer](https://leetcode-cn.com/problems/roman-to-integer)| | |[java](./code/13/13.java)|Easy|
 |0017|[Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)| | |[java](./code/17/17.java)|Medium|
 |0020|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses)| | |[java](./code/20/20.java)|Easy|
 |0021|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)| |[python](./code/21/21.py)|[java](./code/21/21.java) |Easy|
@@ -49,6 +52,7 @@
 |0114|[Flatten Binary Tree to Linked List](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)| | |[java](./code/114/114.java)|Medium|
 |0121|[Best Time To Buy And Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)| | |[java](./code/121/121.java)|Easy|
 |0124|[Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/submissions/)| | |[java](./code/124/124.java)|Hard|
+|0126|[Word Ladder Ii](https://leetcode-cn.com/problems/word-ladder-ii)| | |[java](./code/126/126.java)|Hard|
 |0128|[Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/)| | |[java](./code/128/128.java)|Hard|
 |0133|[Clone Graph](https://leetcode-cn.com/problems/clone-graph)| | |[java](./code/133/133.java)|Medium|
 |0136|[Single Number](https://leetcode-cn.com/problems/single-number/)| | |[java](./code/136/136.java)|Easy|
@@ -122,7 +126,7 @@
 |0647|[Palindromic Substrings](https://leetcode-cn.com/problems/palindromic-substrings/)| | |[java](./code/647/647.java)|Medium|
 |0680|[Valid Palindrome II](https://leetcode-cn.com/problems/valid-palindrome-ii/)| | |[java](./code/680/680.java)|Easy|
 |0695|[Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/)| | |[java](./code/695/695.java)|Medium|
-|0739|[Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)| | |[java](./code/739/739.java)|Medium|
+|0739|[Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)| |[python](./code/739/739.py)|[java](./code/739/739.java)|Medium|
 |0836|[Rectangle Overlap](https://leetcode-cn.com/problems/rectangle-overlap/)| | |[java](./code/836/836.java)|Easy|
 |0837|[New 21 Game](https://leetcode-cn.com/problems/new-21-game/)| | |[java](./code/837/837.java)||
 |0871|[Minimum Number Of Refueling Stops](https://leetcode-cn.com/problems/minimum-number-of-refueling-stops)| | |[java](./code/871/871.java)|Hard|
@@ -184,6 +188,7 @@
 |5425|[Maximum Area Of A Piece Of Cake After Horizontal And Vertical Cuts](https://leetcode-cn.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)| | |[java](./code/5425/5425.java)|Medium|
 |5427|[Probability Of A Two Boxes Having The Same Number Of Distinct Balls](https://leetcode-cn.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)| | |[java](./code/5427/5427.java)|Hard|
 |面试题13|[Ji Qi Ren De Yun Dong Fan Wei Lcof](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | | |[java](./code/面试题13/13.java)|Medium|
+|面试题29|[Shun Shi Zhen Da Yin Ju Zhen Lcof](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)| | |[java](./code/面试题29/29.java)|Medium|
 |面试题40|[Zui Xiao De Kge Shu Lcof](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | | |[java](./code/面试题40/40.java)|Easy|
 |面试题51|[Shu Zu Zhong De Ni Xu Dui Lcof](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) | | |[java](./code/面试题51/51.java)|Hard|
 |面试题56-I|[Shu Zu Zhong Shu Zi Chu Xian De Ci Shu Lcof/](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/) | | |[java](./code/面试题56-I/56-I.java)|Medium|
