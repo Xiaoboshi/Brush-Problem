@@ -12,7 +12,8 @@
 |0008|[String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)| | |[java](./code/8/8.java)|Medium|
 |0009|[Palindrome Number](https://leetcode-cn.com/problems/palindrome-number)| | |[java](./code/9/9.java)|Easy|
 |0012|[Integer To Roman](https://leetcode-cn.com/problems/integer-to-roman)| | |[java](./code/12/12.java)|Medium|
-|0013|[Roman To Integer](https://leetcode-cn.com/problems/roman-to-integer)| | |[java](./code/13/13.java)|Easy|
+|0013|[Roman To Integer](https://leetcode-cn.com/problems/roman-to-integer)| | |[java](./code/13/13.java)|Easy| 
+|0014|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/)| | |[java](./code/14/14.java)|Easy|
 |0015|[3Sum](https://leetcode-cn.com/problems/3sum/)| |[python](./code/15/15.py)|[java](./code/15/15.java)||
 |0017|[Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)| | |[java](./code/17/17.java)|Medium|
 |0020|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses)| | |[java](./code/20/20.java)|Easy|
@@ -97,6 +98,7 @@
 |0337|[House Robber III](https://leetcode-cn.com/problems/house-robber-iii/)| | |[java](./code/337/337.java)|Medium|
 |0338|[Counting Bits](https://leetcode-cn.com/problems/counting-bits/)| | |[java](./code/338/338.java)|Medium|
 |0347|[Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/)| | |[java](./code/347/347.java)|Medium|
+|0354|[Russian Doll Envelopes](https://leetcode-cn.com/problems/russian-doll-envelopes)| | |[java](./code/354/354.java)|Hard|
 |0355|[Design Twitter](https://leetcode-cn.com/problems/design-twitter/)| | |[java](./code/355/355.java)|Medium|
 |0365|[Water and Jug Problem](https://leetcode-cn.com/problems/water-and-jug-problem/)| | |[java](./code/365/365.java)|Medium|
 |0382|[Linked List Random Node](https://leetcode-cn.com/problems/linked-list-random-node/)| | |[java](./code/382/382.java)|Medium|
