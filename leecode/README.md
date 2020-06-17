@@ -88,7 +88,7 @@
 |0283|[Move Zeroes](https://leetcode-cn.com/problems/move-zeroes)| | |[java](./code/283/283.java)|Easy|
 |0287|[Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/)| |[python](./code/287/287.py)|[java](./code/287/287.java)|Medium|
 |0289|[Game Of Life](https://leetcode-cn.com/problems/game-of-life/)| | |[java](./code/289/289.java)|Medium|
-|0297|[Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)| | |[java](./code/297/297.java)|Hard|
+|0297|[Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)| |[python](./297/297.java)|[java](./code/297/297.java)|Hard|
 |0300|[Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/)| | |[java](./code/300/300.java)|Medium|
 |0301|[Remove Invalid Parentheses](https://leetcode-cn.com/problems/remove-invalid-parentheses)| | |[java](./code/301/301.java)|Hard|
 |0309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)| | |[java](./code/309/309.java)|Medium|
@@ -141,6 +141,7 @@
 |0991|[Broken Calculator](https://leetcode-cn.com/problems/broken-calculator)| | |[java](./code/991/991.java)|Medium|
 |0996|[Number Of Squareful Arrays](https://leetcode-cn.com/problems/number-of-squareful-arrays/)| | |[java](./code/996/996.java)|Hard|
 |0999|[Available Captures For Rook](https://leetcode-cn.com/problems/available-captures-for-rook/)| | |[java](./code/999/999.java)|Easy|
+|1014|[Best Sightseeing Pair](https://leetcode-cn.com/problems/best-sightseeing-pair/)| | |[java](./code/1014/1014.java)|Medium|
 |1095|[Find in Mountain Array](https://leetcode-cn.com/problems/find-in-mountain-array/)| | |[java](./code/1095/1095.java)|Hard|
 |1111|[Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/)| | |[java](./code/1111/1111.java)|Medium|
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/)| | |[java](./code/1160/1160.java)|Easy|
