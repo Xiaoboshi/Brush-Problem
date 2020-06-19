@@ -54,6 +54,7 @@
 |0114|[Flatten Binary Tree to Linked List](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)| | |[java](./code/114/114.java)|Medium|
 |0121|[Best Time To Buy And Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)| | |[java](./code/121/121.java)|Easy|
 |0124|[Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/submissions/)| | |[java](./code/124/124.java)|Hard|
+|0125|[Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/)| | |[java](./code/125/125.java)|Easy|
 |0126|[Word Ladder Ii](https://leetcode-cn.com/problems/word-ladder-ii)| | |[java](./code/126/126.java)|Hard|
 |0128|[Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/)| | |[java](./code/128/128.java)|Hard|
 |0133|[Clone Graph](https://leetcode-cn.com/problems/clone-graph)| | |[java](./code/133/133.java)|Medium|
@@ -142,6 +143,7 @@
 |0996|[Number Of Squareful Arrays](https://leetcode-cn.com/problems/number-of-squareful-arrays/)| | |[java](./code/996/996.java)|Hard|
 |0999|[Available Captures For Rook](https://leetcode-cn.com/problems/available-captures-for-rook/)| | |[java](./code/999/999.java)|Easy|
 |1014|[Best Sightseeing Pair](https://leetcode-cn.com/problems/best-sightseeing-pair/)| | |[java](./code/1014/1014.java)|Medium|
+|1028|[Recover A Tree From Preorder Traversal](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal)| | |[java](./code/1028/1028.java)|Hard|
 |1095|[Find in Mountain Array](https://leetcode-cn.com/problems/find-in-mountain-array/)| | |[java](./code/1095/1095.java)|Hard|
 |1111|[Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/)| | |[java](./code/1111/1111.java)|Medium|
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/)| | |[java](./code/1160/1160.java)|Easy|
