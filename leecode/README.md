@@ -9,18 +9,29 @@
 |0003|[Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)| |[python](./code/3/3.py)|[java](./code/3/3.java)|Medium|
 |0004|[Median Of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arr)| |[python](./code/4/4.py)|[java](./code/4/4.java)|Hard|
 |0005|[Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/)| |[python](./code/5/5.py)|[java](./code/5/5.java)||
+|0006|[Zigzag Conversion](https://leetcode-cn.com/problems/zigzag-conversion)| | |[java](./code/6/6.java)|Medium|
+|0007|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer)| | |[java](./code/7/7.java)|Easy|
 |0008|[String to Integer (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)| | |[java](./code/8/8.java)|Medium|
 |0009|[Palindrome Number](https://leetcode-cn.com/problems/palindrome-number)| | |[java](./code/9/9.java)|Easy|
+|0010|[Regular Expression Matching](https://leetcode-cn.com/problems/regular-expression-matching/)| |[python](./code/10/10.py)|[java](./code/10/10.java)|Hard|
+|0011|[Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water)| | |[java](./code/11/11.java)|Medium|
 |0012|[Integer To Roman](https://leetcode-cn.com/problems/integer-to-roman)| | |[java](./code/12/12.java)|Medium|
 |0013|[Roman To Integer](https://leetcode-cn.com/problems/roman-to-integer)| | |[java](./code/13/13.java)|Easy| 
 |0014|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/)| | |[java](./code/14/14.java)|Easy|
 |0015|[3Sum](https://leetcode-cn.com/problems/3sum/)| |[python](./code/15/15.py)|[java](./code/15/15.java)||
+|0016|[3sum Closest](https://leetcode-cn.com/problems/3sum-closest)| |[python](./code/16/16.py)|[java](./code/16/16.java)|Medium|
 |0017|[Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)| | |[java](./code/17/17.java)|Medium|
+|0018|[4sum](https://leetcode-cn.com/problems/4sum)| | |[java](./code/18/18.java)|Medium|
+|0019|[Remove Nth Node From End Of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list)| | |[java](./code/19/19.java)|Medium|
 |0020|[Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses)| | |[java](./code/20/20.java)|Easy|
 |0021|[Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/)| |[python](./code/21/21.py)|[java](./code/21/21.java) |Easy|
 |0022|[Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses/)| | |[java](./code/22/22.java)|Medium|
 |0023|[Merge K Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/)| | |[java](./code/23/23.java)|Hard|
+|0024|[Swap Nodes In Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs)| | |[java](./code/24/24.java)|Medium|
 |0025|[Reverse Nodes in k-Group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)| | |[java](./code/25/25.java)|Hard|
+|0026|[Remove Duplicates From Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array)| | |[java](./code/26/26.java)|Easy|
+|0027|[Remove Element](https://leetcode-cn.com/problems/remove-element)| | |[java](./code/27/27.java)|Easy|
+|0028|[Implement Strstr](https://leetcode-cn.com/problems/implement-strstr)| | |[java](./code/28/28.java)|Easy|
 |0031|[Next Permutation](https://leetcode-cn.com/problems/next-permutation/)| | |[java](./code/31/31.java)|Medium|
 |0032|[Longest Valid Parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses)| | |[java](./code/32/32.java)|Hard|
 |0033|[Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)| | |[java](./code/33/33.java)|Medium|
