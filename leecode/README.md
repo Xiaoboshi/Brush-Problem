@@ -70,7 +70,7 @@
 |0128|[Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/)| | |[java](./code/128/128.java)|Hard|
 |0133|[Clone Graph](https://leetcode-cn.com/problems/clone-graph)| | |[java](./code/133/133.java)|Medium|
 |0136|[Single Number](https://leetcode-cn.com/problems/single-number/)| | |[java](./code/136/136.java)|Easy|
-|0139|[Word Break](https://leetcode-cn.com/problems/word-break/)| | |[java](./code/139/139.java)|Medium|
+|0139|[Word Break](https://leetcode-cn.com/problems/word-break/)| |[python](./code/139.139.py)|[java](./code/139/139.java)|Medium|
 |0141|[Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle)| | |[java](./code/141/141.java)|Easy|
 |0142|[Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)| | |[java](./code/142/142.java)|Medium|
 |0146|[Lru Cache](https://leetcode-cn.com/problems/lru-cache)| | |[java](./code/146/146.java)|Medium|
