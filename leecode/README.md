@@ -214,6 +214,7 @@
 |面试题64|[1+2+…+n LCOF](https://leetcode-cn.com/problems/qiu-12n-lcof/)| | |[java](./code/面试题64/64.java)||
 |面试题0106|[Compress String LCCI](https://leetcode-cn.com/problems/compress-string-lcci/) | | |[java](./code/面试题0106/0106.java)|Easy|
 |面试题0107|[Rotate Matrix LCCI](https://leetcode-cn.com/problems/rotate-matrix-lcci/) | | |[java](./code/面试题0107/0107.java)|Medium|
+|面试题0201|[Remove Duplicate Node LCCI](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/) | | |[java](./code/面试题0201/0201.java)|Easy|
 |面试题0811|[Coin Lcci](https://leetcode-cn.com/problems/coin-lcci/) | | |[java](./code/面试题0811/0811.java)|Medium|
 |面试题1603|[Intersection LCCI](https://leetcode-cn.com/problems/intersection-lcci/) | | |[java](./code/面试题1603/1603.java)|Hard|
 |面试题1619|[Pond Sizes Lcci](https://leetcode-cn.com/problems/pond-sizes-lcci)| | |[java](./code/面试题1619/1619.java)|Medium|
