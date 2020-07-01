@@ -1,4 +1,4 @@
-	LeetCode
+你	LeetCode
 ========
  
 
@@ -32,11 +32,19 @@
 |0026|[Remove Duplicates From Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array)| | |[java](./code/26/26.java)|Easy|
 |0027|[Remove Element](https://leetcode-cn.com/problems/remove-element)| | |[java](./code/27/27.java)|Easy|
 |0028|[Implement Strstr](https://leetcode-cn.com/problems/implement-strstr)| | |[java](./code/28/28.java)|Easy|
+|0029|[Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers)| | |[java](./code/29/29.java)|Medium|
+|0030|[Substring With Concatenation Of All Words](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words)| | |[java](./code/30/30.java)|Hard|
 |0031|[Next Permutation](https://leetcode-cn.com/problems/next-permutation/)| | |[java](./code/31/31.java)|Medium|
 |0032|[Longest Valid Parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses)| | |[java](./code/32/32.java)|Hard|
 |0033|[Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)| | |[java](./code/33/33.java)|Medium|
 |0034|[Find First and Last Position of Element in Sorted Array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| | |[java](./code/34/34.java)|Medium|
+|0035|[Search Insert Position](https://leetcode-cn.com/problems/search-insert-position)| | |[java](./code/35/35.java)|Easy|
+|0036|[Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku)| | |[java](./code/36/36.java)|Medium|
+|0037|[Sudoku Solver](https://leetcode-cn.com/problems/sudoku-solver)| | |[java](./code/37/37.java)|Hard|
+|0038|[Count And Say](https://leetcode-cn.com/problems/count-and-say)| | |[java](./code/38/38.java)|Easy|
 |0039|[Combination Sum](https://leetcode-cn.com/problems/combination-sum/)| | |[java](./code/39/39.java)|Medium|
+|0040|[Combination Sum Ii](https://leetcode-cn.com/problems/combination-sum-ii)| | |[java](./code/40/40.java)|Medium|
+|0041|[First Missing Positive](https://leetcode-cn.com/problems/first-missing-positive/)| |[python](./code/41/41.py)|[java](./code/41/41.java)||
 |0042|[Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/)| | |[java](./code/42/42.java)|Hard|
 |0045|[Jump Game II](https://leetcode-cn.com/problems/jump-game-ii/)| | |[java](./code/45/45.java)|Hard|
 |0046|[Permutations](https://leetcode-cn.com/problems/permutations/)| | |[java](./code/46/46.java)|Medium|
@@ -87,6 +95,7 @@
 |0206|[Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/)| | |[java](./code/206/206.java)|Easy|
 |0207|[Course Schedule](https://leetcode-cn.com/problems/course-schedule/)| | |[java](./code/207/207.java)|Medium|
 |0208|[Implement Trie (Prefix Tree)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)| | |[java](./code/208/208.java)|Medium|
+|0209|[Minimum Size Subarray Sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum/solution/chang-du-zui-xiao-de-zi-shu-zu-by-leetcode-solutio/)| | |[java](./code/209/209.java)|Medium|
 |0210|[Course Schedule II](https://leetcode-cn.com/problems/course-schedule-ii/)| | |[java](./code/210/210.java)|Medium|
 |0215|[Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)| | |[java](./code/215/215.java)|Medium|
 |0221|[Maximal Square](https://leetcode-cn.com/problems/maximal-square/)| |[python](./code/221/221.py)|[java](./code/221/221.java)|Medium|
@@ -141,6 +150,7 @@
 |0647|[Palindromic Substrings](https://leetcode-cn.com/problems/palindromic-substrings/)| | |[java](./code/647/647.java)|Medium|
 |0680|[Valid Palindrome II](https://leetcode-cn.com/problems/valid-palindrome-ii/)| | |[java](./code/680/680.java)|Easy|
 |0695|[Max Area of Island](https://leetcode-cn.com/problems/max-area-of-island/)| | |[java](./code/695/695.java)|Medium|
+|0718|[Maximum Length of Repeated Subarray](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)| | |[java](./code/718/718.java)|Medium|
 |0739|[Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/)| |[python](./code/739/739.py)|[java](./code/739/739.java)|Medium|
 |0836|[Rectangle Overlap](https://leetcode-cn.com/problems/rectangle-overlap/)| | |[java](./code/836/836.java)|Easy|
 |0837|[New 21 Game](https://leetcode-cn.com/problems/new-21-game/)| | |[java](./code/837/837.java)||
