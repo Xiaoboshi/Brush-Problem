@@ -78,7 +78,7 @@
 |0128|[Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/)| | |[java](./code/128/128.java)|Hard|
 |0133|[Clone Graph](https://leetcode-cn.com/problems/clone-graph)| | |[java](./code/133/133.java)|Medium|
 |0136|[Single Number](https://leetcode-cn.com/problems/single-number/)| | |[java](./code/136/136.java)|Easy|
-|0139|[Word Break](https://leetcode-cn.com/problems/word-break/)| | |[java](./code/139/139.java)|Medium|
+|0139|[Word Break](https://leetcode-cn.com/problems/word-break/)| |[python](./code/139.139.py)|[java](./code/139/139.java)|Medium|
 |0141|[Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle)| | |[java](./code/141/141.java)|Easy|
 |0142|[Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)| | |[java](./code/142/142.java)|Medium|
 |0146|[Lru Cache](https://leetcode-cn.com/problems/lru-cache)| | |[java](./code/146/146.java)|Medium|
@@ -224,6 +224,7 @@
 |面试题64|[1+2+…+n LCOF](https://leetcode-cn.com/problems/qiu-12n-lcof/)| | |[java](./code/面试题64/64.java)||
 |面试题0106|[Compress String LCCI](https://leetcode-cn.com/problems/compress-string-lcci/) | | |[java](./code/面试题0106/0106.java)|Easy|
 |面试题0107|[Rotate Matrix LCCI](https://leetcode-cn.com/problems/rotate-matrix-lcci/) | | |[java](./code/面试题0107/0107.java)|Medium|
+|面试题0201|[Remove Duplicate Node LCCI](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/) | | |[java](./code/面试题0201/0201.java)|Easy|
 |面试题0811|[Coin Lcci](https://leetcode-cn.com/problems/coin-lcci/) | | |[java](./code/面试题0811/0811.java)|Medium|
 |面试题1603|[Intersection LCCI](https://leetcode-cn.com/problems/intersection-lcci/) | | |[java](./code/面试题1603/1603.java)|Hard|
 |面试题1619|[Pond Sizes Lcci](https://leetcode-cn.com/problems/pond-sizes-lcci)| | |[java](./code/面试题1619/1619.java)|Medium|
