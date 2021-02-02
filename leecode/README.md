@@ -137,6 +137,7 @@
 |0461|[Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/)| | |[java](./code/461/461.java)|Easy|
 |0466|[Count The Repetitions](https://leetcode-cn.com/problems/count-the-repetitions/)| | |[java](./code/466/466.java)|Hard|
 |0475|[Heaters](https://leetcode-cn.com/problems/heaters/)| | |[java](./code/475/475.java)|Easy|
+|0492|[Construct The Rectangle](https://leetcode-cn.com/problems/construct-the-rectangle)| | |[java](./code/492/492.java)|Easy|
 |0494|[Target Sum](https://leetcode-cn.com/problems/target-sum/)| | |[java](./code/494/494.java)|Medium|
 |0516|[Longest Palindromic Subsequence](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)| | |[java](./code/516/516.java)|Medium|
 |0538|[Convert BST to Greater Tree](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)| | |[java](./code/538/538.java)|Easy|
